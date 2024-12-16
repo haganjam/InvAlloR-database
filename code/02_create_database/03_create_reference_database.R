@@ -6,17 +6,27 @@
 #' 
 
 # load relevant libraries
-library(readxl)
+library(readr)
 
 # load the reference list
-ref_dat <- readxl::read_xlsx(path = "C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/reference_database.xlsx")
-head(ref_dat)
+ref_dat <- readr::read_csv(here::here("raw-data/reference_database.csv"),
+                           col_types = cols(
+                             reference_id = col_double(),
+                             first_author = col_character(),
+                             year = col_double(),
+                             journal = col_character(),
+                             title = col_character(),
+                             location_description = col_character(),
+                             doi_url = col_character(),
+                             notes = col_character()
+                           ))
 
 # check the database
-View(ref_dat)
+head(ref_dat)
+str(ref_dat)
 
 # replace the NA characters with true NAs
 ref_dat[ref_dat == "NA"] <- NA
 
 # export the database as a .rds file
-saveRDS(ref_dat, "database/reference_database.rds")
+saveRDS(ref_dat, here::here("data/reference_database.rds"))

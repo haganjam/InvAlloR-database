@@ -17,10 +17,10 @@ library(tidyr)
 library(Matrix)
 
 # load the special names function
-source("R/special_names.R")
+source("code/functions/special_names.R")
 
 # load the taxonomic distance matrix
-source("companion_scripts/02_create_database/helper-taxon-matrix-function.R")
+source("code/functions/taxon_matrix_function.R")
 
 # set-up a vector of taxonomic databases: "gbif", "itis", "col"
 database <- c("gbif", "itis", "col")
@@ -33,7 +33,7 @@ for (j in 1:length(database)) {
     )
 
   # load the taxon data
-  tax_dat <- readRDS(file = "database/taxon_database.rds")
+  tax_dat <- readRDS(file = here::here("data/taxon_database.rds"))
 
   # remove the empty columns
   tax_dat <-
@@ -215,10 +215,10 @@ for (j in 1:length(database)) {
 
   # write the taxon database
   name1 <- paste(paste(database[j], "taxon", "database", sep = "_"), ".rds", sep = "")
-  saveRDS(tax_clean, file = paste("database", "/", name1, sep = ""))
+  saveRDS(tax_clean, file = here::here(paste("data", "/", name1, sep = "")))
 
   # write the higher taxon matrices
   name2 <- paste(paste(database[j], "higher", "taxon", "matrices", sep = "_"), ".rds", sep = "")
-  saveRDS(d_dist, file = paste("database", "/", name2, sep = ""))
+  saveRDS(d_dist, file = here::here(paste("data", "/", name2, sep = "")))
 
   }

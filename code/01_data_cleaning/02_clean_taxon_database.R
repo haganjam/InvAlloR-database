@@ -3,27 +3,47 @@
 # load relevant libraries
 library(bdc)
 library(stringdist)
-
-# load special names function
-source("R/special_names.R")
+library(readr)
 
 # load the equation data
-t_dat <- readxl::read_xlsx(path = "C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/taxon_database.xlsx")
+t_dat <- readr::read_csv(here::here("raw-data/taxon_database.csv"),
+                         col_types = cols(
+                           database = col_character(),
+                           id = col_double(),
+                           group1 = col_character(),
+                           group2 = col_character(),
+                           db_taxon = col_character(),
+                           db_taxon_gt_order = col_character(),
+                           db_higher_rank_source = col_logical(),
+                           db_taxon_higher_rank = col_logical(),
+                           db_taxon_higher = col_logical()
+                         ))
 head(t_dat)
 
+# check the variable structure
+str(t_dat)
+
 # clean the names for typos etc.
-x <- bdc::bdc_clean_names(sci_names = t_dat$db_taxon, save_outputs = FALSE)
+clean_names <- bdc::bdc_clean_names(sci_names = t_dat$db_taxon, save_outputs = FALSE)
 
 # check if any names were changed
-if (!any(x$scientificName != x$names_clean)) {
+if (!any(clean_names$scientificName != clean_names$names_clean)) {
   message("No names were changed")
 }
 
 # replace the names in tax.dat with these cleaned names
-t_dat$db_taxon <- x$names_clean
+t_dat$db_taxon <- clean_names$names_clean
 
 # fix the special names
-spec_names <- special_taxon_names()
+spec_names <- c(
+  "Rotifera",
+  "Tardigrada",
+  "Nematoda",
+  "Platyhelminthes",
+  "Turbellaria",
+  "Annelida",
+  "Oligochaeta"
+)
 
 # replace incorrectly spelled special names
 for (i in 1:length(spec_names)) {
@@ -36,4 +56,4 @@ for (i in 1:length(spec_names)) {
 }
 
 # write this into a .rds file
-saveRDS(t_dat, file = paste("database", "/", "taxon_database.rds", sep = ""))
+saveRDS(t_dat, file = here::here("data/taxon_database.rds"))

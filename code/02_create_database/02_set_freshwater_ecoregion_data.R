@@ -11,24 +11,35 @@ library(sp)
 library(sf)
 library(raster)
 library(dplyr)
+library(readr)
 
 # load the set of metadata associated with each FEOW_ID
-fw_md <- readxl::read_xlsx(path = "C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/freshwater_ecoregion_habitat_list.xlsx")
+fw_md <- readr::read_csv("raw-data/freshwater_ecoregion_habitat_list.csv",
+                         col_types = cols(
+                           page = col_double(),
+                           habitat_id = col_double(),
+                           realm = col_character(),
+                           major_habitat_type = col_character(),
+                           ecoregion = col_character()
+                         ))
+
+# check the loaded data
 head(fw_md)
+str(fw_md)
 
 # remove the page column
 fw_md <-
-  fw_md %>%
+  fw_md |>
   dplyr::select(-page)
 
 # save the habitat map as .rds file as well
-saveRDS(fw_md, file = paste("database", "/", "freshwater_ecoregion_metadata.rds", sep = ""))
+saveRDS(fw_md, file = here::here(paste("data", "/", "freshwater_ecoregion_metadata.rds", sep = "")))
 
 # set-up the CRS
 crdref <- sp::CRS("+proj=longlat +datum=WGS84")
 
 # load the freshwater map
-fw <- sf::st_read("C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/feow_hydrosheds.shp")
+fw <- sf::st_read(here::here("raw-data/feow_hydrosheds.shp"))
 
 # set the crs
 sf::st_crs(fw) <- crdref
@@ -37,7 +48,20 @@ sf::st_crs(fw) <- crdref
 fw <- as(fw, "Spatial")
 
 # load the habitat data for each equation, length etc.
-hab <- readxl::read_xlsx(path = "C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/habitat_database.xlsx")
+hab <- readr::read_csv("raw-data/habitat_database.csv",
+                       col_types = cols(
+                         database = col_character(),
+                         id = col_double(),
+                         accuracy = col_character(),
+                         lat_dd = col_double(),
+                         lon_dd = col_double(),
+                         habitat_id = col_logical(),
+                         realm = col_logical(),
+                         major_habitat_type = col_logical(),
+                         ecoregion = col_logical()
+                       ))
+
+# check the data
 head(hab)
 
 # create a spatial points object for each lat lon in the habitats database
@@ -105,9 +129,9 @@ hab <-
 head(hab)
 
 # write this into an rds file
-saveRDS(hab, file = paste("database", "/", "freshwater_ecoregion_data.rds", sep = ""))
+saveRDS(hab, file = here::here(paste("data", "/", "freshwater_ecoregion_data.rds", sep = "")))
 
 # save the habitat map as .rds file as well
-saveRDS(fw, file = paste("database", "/", "freshwater_ecoregion_map.rds", sep = ""))
+saveRDS(fw, file = here::here(paste("data", "/", "freshwater_ecoregion_map.rds", sep = "")))
 
 ### END

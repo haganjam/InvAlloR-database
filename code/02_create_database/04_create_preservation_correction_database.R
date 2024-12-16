@@ -4,17 +4,33 @@
 #' 
 
 # load relevant libraries
-library(readxl)
+library(readr)
 
 # load the reference list
-pre_dat <- readxl::read_xlsx(path = "C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/dry_biomass_correction_data.xlsx")
-head(pre_dat)
+pre_dat <- readr::read_csv(here::here("raw-data/dry_biomass_correction_data.csv"),
+                           col_types = cols(
+                             correction_factor_id = col_double(),
+                             first_author = col_character(),
+                             year = col_double(),
+                             journal = col_character(),
+                             title = col_character(),
+                             location_description = col_character(),
+                             preservation = col_character(),
+                             percentage = col_double(),
+                             order = col_character(),
+                             taxon = col_character(),
+                             rank = col_character(),
+                             correction_percentage = col_double(),
+                             doi_url = col_character(),
+                             notes = col_character()
+                           ))
 
 # check the database
-View(pre_dat)
+head(pre_dat)
+str(pre_dat)
 
 # replace the NA characters with true NAs
 pre_dat[pre_dat == "NA"] <- NA
 
 # export the database as a .rds file
-saveRDS(pre_dat, "database/preservation_correction_database.rds")
+saveRDS(pre_dat, here::here("data/preservation_correction_database.rds"))

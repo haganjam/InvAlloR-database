@@ -4,27 +4,63 @@
 library(bdc)
 library(stringdist)
 library(dplyr)
-
-# load special names function
-source("R/special_names.R")
+library(readr)
 
 # load the equation data
-equ_dat <- readxl::read_xlsx(path = "C:/Users/james/OneDrive/PhD_Gothenburg/Chapter_4_FreshInvTraitR/data/allometry_database_ver4/equation_database.xlsx")
-head(equ_dat)
+equ_dat <- readr::read_csv(here::here("raw-data/equation_database.csv"),
+                           col_types = cols(
+                             db_taxon = col_character(),
+                             db_life_stage = col_character(),
+                             equation_id = col_double(),
+                             preservation = col_character(),
+                             preservation_percentage = col_character(),
+                             correction_percentage = col_double(),
+                             correction_factor_id = col_character(),
+                             body_size_meas = col_character(),
+                             body_size_unit = col_character(),
+                             body_size_min = col_double(),
+                             body_size_max = col_double(),
+                             equation_form = col_character(),
+                             log_base = col_double(),
+                             a = col_double(),
+                             b = col_double(),
+                             dry_biomass_scale = col_double(),
+                             dry_biomass_min = col_double(),
+                             dry_biomass_max = col_double(),
+                             dry_biomass_unit = col_character(),
+                             RMS = col_double(),
+                             n = col_double(),
+                             r2 = col_double(),
+                             lm_correction = col_double(),
+                             lm_correction_type = col_character(),
+                             lm_reference = col_character(),
+                             reference = col_double()
+                           ))
+
+# check the variable structure
+str(equ_dat)
 
 # clean the names for typos etc.
-x <- bdc::bdc_clean_names(sci_names = equ_dat$db_taxon, save_outputs = FALSE)
+clean_names <- bdc::bdc_clean_names(sci_names = equ_dat$db_taxon, save_outputs = FALSE)
 
 # check if any names were changed
-if (!any(x$scientificName != x$names_clean)) {
+if (!any(clean_names$scientificName != clean_names$names_clean)) {
   message("No names were changed")
 }
 
 # replace the names in tax.dat with these cleaned names
-equ_dat$db_taxon <- x$names_clean
+equ_dat$db_taxon <- clean_names$names_clean
 
 # fix the special names
-spec_names <- special_taxon_names()
+spec_names <- c(
+  "Rotifera",
+  "Tardigrada",
+  "Nematoda",
+  "Platyhelminthes",
+  "Turbellaria",
+  "Annelida",
+  "Oligochaeta"
+)
 
 # replace incorrectly spelled special names
 for (i in 1:length(spec_names)) {
@@ -98,4 +134,4 @@ equ_dat <-
 equ_dat[equ_dat == "NA"] <- NA
 
 # write this into a .rds file
-saveRDS(equ_dat, file = paste("database", "/", "equation_database.rds", sep = ""))
+saveRDS(equ_dat, file = here::here("data/equation_database.rds"))
