@@ -1,0 +1,367 @@
+database,id,group1,group2,db_taxon,db_taxon_gt_order,db_higher_rank_source,db_taxon_higher_rank,db_taxon_higher
+equation,1,Insecta,Hemimetabolous,Coloburiscus humeralis,no,NA,NA,NA
+equation,2,Insecta,Hemimetabolous,Deleatidium,no,NA,NA,NA
+equation,3,Insecta,Hemimetabolous,Nesameletus,no,NA,NA,NA
+equation,4,Insecta,Hemimetabolous,Zephlebia,no,NA,NA,NA
+equation,5,Insecta,Hemimetabolous,Stenoperla prasina,no,NA,NA,NA
+equation,6,Insecta,Hemimetabolous,Austroperla cyrene,no,NA,NA,NA
+equation,7,Insecta,Hemimetabolous,Olinga feredayi,no,NA,NA,NA
+equation,8,Insecta,Hemimetabolous,Aoteapsyche,no,NA,NA,NA
+equation,9,Insecta,Hemimetabolous,Hydrobiosidae,no,NA,NA,NA
+equation,10,Insecta,Hemimetabolous,Archichauliodes diversus,no,NA,NA,NA
+equation,11,Insecta,Holometabolous,Aphrophila neozelandica,no,NA,NA,NA
+equation,12,Insecta,Holometabolous,Chironomidae,no,NA,NA,NA
+equation,13,Insecta,Holometabolous,Austrosimulium,no,NA,NA,NA
+equation,14,Insecta,Holometabolous,Elmidae,no,NA,NA,NA
+equation,15,Mollusca,Gastropoda,Potamopyrgus antipodarum,no,NA,NA,NA
+equation,16,Crustacea,Diplostraca,Bosmina longispina,no,NA,NA,NA
+equation,17,Crustacea,Diplostraca,Bosmina longispina,no,NA,NA,NA
+equation,18,Crustacea,Diplostraca,Limnosida flontosa,no,NA,NA,NA
+equation,19,Crustacea,Copepoda,Eurytemora lacustris,no,NA,NA,NA
+equation,20,Crustacea,Copepoda,Cyclops,no,NA,NA,NA
+equation,21,Crustacea,Copepoda,Mesocyclops,no,NA,NA,NA
+equation,22,Crustacea,Copepoda,Mesocyclops,no,NA,NA,NA
+equation,23,Crustacea,Copepoda,Mesocyclops,no,NA,NA,NA
+equation,24,Crustacea,Copepoda,Thermocyclops,no,NA,NA,NA
+equation,25,Crustacea,Copepoda,Thermocyclops,no,NA,NA,NA
+equation,26,Crustacea,Copepoda,Thermocyclops,no,NA,NA,NA
+equation,27,Insecta,Hemimetabolous,Klapopteryx kuscheli,no,NA,NA,NA
+equation,28,Insecta,Hemimetabolous,Pictetoperla gayi,no,NA,NA,NA
+equation,29,Insecta,Hemimetabolous,Kempnyela genualis,no,NA,NA,NA
+equation,30,Insecta,Hemimetabolous,Notoperla archiplatae,no,NA,NA,NA
+equation,31,Insecta,Hemimetabolous,Notoperlopsis femina,no,NA,NA,NA
+equation,32,Insecta,Hemimetabolous,Antarctoperla michaelseni ,no,NA,NA,NA
+equation,33,Insecta,Hemimetabolous,Aubertoperla illiesi,no,NA,NA,NA
+equation,34,Insecta,Hemimetabolous,Senzilloides panguipulli ,no,NA,NA,NA
+equation,35,Insecta,Hemimetabolous,Penaphlebia chilensis,no,NA,NA,NA
+equation,36,Insecta,Hemimetabolous,Meridialaris,no,NA,NA,NA
+equation,37,Insecta,Hemimetabolous,Metamonius,no,NA,NA,NA
+equation,38,Insecta,Hemimetabolous,Chiloporter eatoni,no,NA,NA,NA
+equation,39,Insecta,Hemimetabolous,Baetis,no,NA,NA,NA
+equation,40,Insecta,Hemimetabolous,Smicridea,no,NA,NA,NA
+equation,41,Insecta,Hemimetabolous,Neoatopsyche,no,NA,NA,NA
+equation,42,Insecta,Hemimetabolous,Cailloma,no,NA,NA,NA
+equation,43,Insecta,Hemimetabolous,Rheochorema,no,NA,NA,NA
+equation,44,Insecta,Holometabolous,Paratrichocladius,no,NA,NA,NA
+equation,45,Insecta,Holometabolous,Lispoides,no,NA,NA,NA
+equation,46,Insecta,Holometabolous,Dasyomma,no,NA,NA,NA
+equation,47,Insecta,Holometabolous,Edwardsina,no,NA,NA,NA
+equation,48,Insecta,Holometabolous,Simulium,no,NA,NA,NA
+equation,49,Insecta,Holometabolous,Hexatoma,no,NA,NA,NA
+equation,50,Insecta,Hemimetabolous,Aeshna,no,NA,NA,NA
+equation,51,Crustacea,Malacostraca,Aegla neuquensis,no,NA,NA,NA
+equation,52,Crustacea,Malacostraca,Hyalella curvispina,no,NA,NA,NA
+equation,53,Annelida,Oligochaeta,Lumbriculidae,no,NA,NA,NA
+equation,54,Mollusca,Gastropoda,Chilina patagonica,no,NA,NA,NA
+equation,55,Platyhelminthes,Turbellaria,Girardia,no,NA,NA,NA
+equation,56,Mollusca,Gastropoda,Bithynia tentaculata,no,NA,NA,NA
+equation,57,Mollusca,Gastropoda,Lymnaea peregra,no,NA,NA,NA
+equation,58,Mollusca,Gastropoda,Lymnaea ovata,no,NA,NA,NA
+equation,59,Mollusca,Bivalvia,Dreissena polymorpha,no,NA,NA,NA
+equation,60,Crustacea,Malacostraca,Gammarus roeseli,no,NA,NA,NA
+equation,61,Insecta,Hemimetabolous,Centroptilum luteolum,no,NA,NA,NA
+equation,62,Insecta,Hemimetabolous,Ecdyonurus dispar,no,NA,NA,NA
+equation,63,Insecta,Hemimetabolous,Caenis,no,NA,NA,NA
+equation,64,Insecta,Hemimetabolous,Leptophlebia vespertina,no,NA,NA,NA
+equation,65,Insecta,Hemimetabolous,Leuctra,no,NA,NA,NA
+equation,66,Insecta,Hemimetabolous,Polycentropus flavomaculatus,no,NA,NA,NA
+equation,67,Insecta,Hemimetabolous,Ceraclea,no,NA,NA,NA
+equation,68,Insecta,Holometabolous,Ceratopogonidae,no,NA,NA,NA
+equation,69,Insecta,Holometabolous,Chironomidae,no,NA,NA,NA
+equation,70,Insecta,Holometabolous,Macropelopiini,no,NA,NA,NA
+equation,71,Insecta,Holometabolous,Metriocnemus,no,NA,NA,NA
+equation,72,Insecta,Holometabolous,Cricotopus,no,NA,NA,NA
+equation,73,Insecta,Holometabolous,Tanytarsus,no,NA,NA,NA
+equation,74,Insecta,Holometabolous,Chironomus,no,NA,NA,NA
+equation,75,Insecta,Holometabolous,Paucispinigera,no,NA,NA,NA
+equation,76,Insecta,Hemimetabolous,Xanthocnemis,no,NA,NA,NA
+equation,77,Insecta,Hemimetabolous,Procordulia,no,NA,NA,NA
+equation,78,Insecta,Hemimetabolous,Oecetis,no,NA,NA,NA
+equation,79,Insecta,Hemimetabolous,Triplectedes,no,NA,NA,NA
+equation,80,Insecta,Hemimetabolous,Paroxyethira,no,NA,NA,NA
+equation,81,Mollusca,Bivalvia,Hyridella,no,NA,NA,NA
+equation,82,Mollusca,Bivalvia,Sphaerium,no,NA,NA,NA
+equation,83,Mollusca,Gastropoda,Potamopyrgus,no,NA,NA,NA
+equation,84,Annelida,Oligochaeta,Oligochaeta,yes,NA,NA,NA
+equation,85,Annelida,Oligochaeta,Oligochaeta,yes,NA,NA,NA
+equation,86,Insecta,Hemimetabolous,Uracanthella punctisetae,no,NA,NA,NA
+equation,87,Insecta,Hemimetabolous,Micrasema quadriloba,no,NA,NA,NA
+equation,88,Insecta,Hemimetabolous,Glossosoma altaicum,no,NA,NA,NA
+equation,89,Insecta,Hemimetabolous,Glossosoma ussuricum,no,NA,NA,NA
+equation,90,Insecta,Hemimetabolous,Goera japonica,no,NA,NA,NA
+equation,91,Insecta,Holometabolous,Athericidae,no,NA,NA,NA
+equation,92,Insecta,Hemimetabolous,Corisella,no,NA,NA,NA
+equation,93,Insecta,Hemimetabolous,Corisella,no,NA,NA,NA
+equation,94,Insecta,Hemimetabolous,Tricorythodes,no,NA,NA,NA
+equation,95,Annelida,Oligochaeta,Oligochaeta,yes,NA,NA,NA
+equation,96,Mollusca,Gastropoda,Ancylidae,no,NA,NA,NA
+equation,97,Mollusca,Gastropoda,Bithyniidae,no,NA,NA,NA
+equation,98,Mollusca,Gastropoda,Hydrobiidae,no,NA,NA,NA
+equation,99,Mollusca,Gastropoda,Physidae,no,NA,NA,NA
+equation,100,Mollusca,Gastropoda,Planorbidae,no,NA,NA,NA
+equation,101,Mollusca,Gastropoda,Valvatidae,no,NA,NA,NA
+equation,102,Mollusca,Gastropoda,Viviparidae,no,NA,NA,NA
+equation,103,Crustacea,Malacostraca,Asellidae,no,NA,NA,NA
+equation,104,Crustacea,Malacostraca,Gammaridae,no,NA,NA,NA
+equation,105,Insecta,Hemimetabolous,Caenidae,no,NA,NA,NA
+equation,106,Insecta,Hemimetabolous,Coenagrionidae,no,NA,NA,NA
+equation,107,Insecta,Hemimetabolous,Corixidae,no,NA,NA,NA
+equation,108,Insecta,Hemimetabolous,Leptoceridae,no,NA,NA,NA
+equation,109,Insecta,Holometabolous,Pyralidae,no,NA,NA,NA
+equation,110,Insecta,Holometabolous,Ceratopogonidae,no,NA,NA,NA
+equation,111,Insecta,Holometabolous,Chironomidae,no,NA,NA,NA
+equation,112,Insecta,Holometabolous,Tipulidae,no,NA,NA,NA
+equation,113,Mollusca,Bivalvia,Unionidae,no,NA,NA,NA
+equation,114,Mollusca,Bivalvia,Amblema plicata,no,NA,NA,NA
+equation,115,Mollusca,Bivalvia,Anodontini,no,NA,NA,NA
+equation,116,Mollusca,Bivalvia,Alasmidonta varicosa,no,NA,NA,NA
+equation,117,Mollusca,Bivalvia,Anodonta implicata,no,NA,NA,NA
+equation,118,Mollusca,Bivalvia,Pyganodon grandis,no,NA,NA,NA
+equation,119,Mollusca,Bivalvia,Strophitus undulatus,no,NA,NA,NA
+equation,120,Mollusca,Bivalvia,Lampsilini,no,NA,NA,NA
+equation,121,Mollusca,Bivalvia,Lampsilis ornata,no,NA,NA,NA
+equation,122,Mollusca,Bivalvia,Lampsilis straminea,no,NA,NA,NA
+equation,123,Mollusca,Bivalvia,Lampsilis teres,no,NA,NA,NA
+equation,124,Mollusca,Bivalvia,Leptodea ochracea,no,NA,NA,NA
+equation,125,Mollusca,Bivalvia,Obliquaria reflexa,no,NA,NA,NA
+equation,126,Mollusca,Bivalvia,Obovaria unicolor,no,NA,NA,NA
+equation,127,Mollusca,Bivalvia,Ptychobranchus fasciolaris,no,NA,NA,NA
+equation,128,Mollusca,Bivalvia,Ptychobranchus occidentalis,no,NA,NA,NA
+equation,129,Mollusca,Bivalvia,Villosa nebulosa,no,NA,NA,NA
+equation,130,Mollusca,Bivalvia,Pleurobemini,no,NA,NA,NA
+equation,131,Mollusca,Bivalvia,Elliptio arca,no,NA,NA,NA
+equation,132,Mollusca,Bivalvia,Elliptio complanata,no,NA,NA,NA
+equation,133,Mollusca,Bivalvia,Elliptio dilatata,no,NA,NA,NA
+equation,134,Mollusca,Bivalvia,Fusconaia cerina,no,NA,NA,NA
+equation,135,Mollusca,Bivalvia,Pleurobema decisum,no,NA,NA,NA
+equation,136,Mollusca,Bivalvia,Quadrulini,no,NA,NA,NA
+equation,137,Mollusca,Bivalvia,Cyclonaias asperata,no,NA,NA,NA
+equation,138,Mollusca,Bivalvia,Cyclonaias pustulosa,no,NA,NA,NA
+equation,139,Mollusca,Bivalvia,Quadrula rumphiana,no,NA,NA,NA
+equation,140,Mollusca,Bivalvia,Tritogonia verrucosa,no,NA,NA,NA
+equation,141,Crustacea,Ostracoda,Cypridoidea,no,NA,NA,NA
+equation,142,Crustacea,Ostracoda,Cypridoidea,no,NA,NA,NA
+equation,143,Crustacea,Malacostraca,Hyalella azteca,no,NA,NA,NA
+equation,144,Mollusca,Bivalvia,Sphaerium,no,NA,NA,NA
+equation,145,Mollusca,Gastropoda,Physa,no,NA,NA,NA
+equation,146,Mollusca,Gastropoda,Ferrissia,no,NA,NA,NA
+equation,147,Mollusca,Gastropoda,Thiaragranifera,no,NA,NA,NA
+equation,148,Mollusca,Gastropoda,Pomacea,no,NA,NA,NA
+equation,149,Annelida,Hirudinea,Helobdella,no,NA,NA,NA
+equation,150,Annelida,Hirudinea,Helobdella,no,NA,NA,NA
+equation,151,Annelida,Hirudinea,Helobdella,no,NA,NA,NA
+equation,152,Insecta,Holometabolous,Paraponyx,no,NA,NA,NA
+equation,153,Insecta,Hemimetabolous,Aeshnidae,no,NA,NA,NA
+equation,154,Insecta,Hemimetabolous,Anax junius,no,NA,NA,NA
+equation,155,Insecta,Hemimetabolous,Tricanthagyna septima,no,NA,NA,NA
+equation,156,Insecta,Hemimetabolous,Coryphaeschna adnexa,no,NA,NA,NA
+equation,157,Insecta,Hemimetabolous,Gynacantha nervosa,no,NA,NA,NA
+equation,158,Insecta,Hemimetabolous,Libellulidae,no,NA,NA,NA
+equation,159,Insecta,Hemimetabolous,Micrathyria aequalis,no,NA,NA,NA
+equation,160,Insecta,Hemimetabolous,Erythrodiplax justiniana,no,NA,NA,NA
+equation,161,Insecta,Hemimetabolous,Erythrodiplax,no,NA,NA,NA
+equation,162,Insecta,Hemimetabolous,Tramea,no,NA,NA,NA
+equation,163,Insecta,Hemimetabolous,Coenagrionidae,no,NA,NA,NA
+equation,164,Insecta,Hemimetabolous,Enallagma,no,NA,NA,NA
+equation,165,Insecta,Hemimetabolous,Lestes,no,NA,NA,NA
+equation,166,Insecta,Hemimetabolous,Callibaetis,no,NA,NA,NA
+equation,167,Insecta,Holometabolous,Cybister,no,NA,NA,NA
+equation,168,Insecta,Holometabolous,Cybister,no,NA,NA,NA
+equation,169,Insecta,Holometabolous,Laccophilus,no,NA,NA,NA
+equation,170,Insecta,Holometabolous,Tropisternus,no,NA,NA,NA
+equation,171,Insecta,Holometabolous,Haliplus,no,NA,NA,NA
+equation,172,Insecta,Holometabolous,Helichus,no,NA,NA,NA
+equation,173,Insecta,Holometabolous,Gyrinus,no,NA,NA,NA
+equation,174,Insecta,Hemimetabolous,Belostomatidae,no,NA,NA,NA
+equation,175,Insecta,Hemimetabolous,Belostoma,no,NA,NA,NA
+equation,176,Insecta,Hemimetabolous,Lethocerus,no,NA,NA,NA
+equation,177,Insecta,Hemimetabolous,Ranatra,no,NA,NA,NA
+equation,178,Insecta,Hemimetabolous,Notonectidae,no,NA,NA,NA
+equation,179,Insecta,Hemimetabolous,Buenoa,no,NA,NA,NA
+equation,180,Insecta,Hemimetabolous,Notonecta,no,NA,NA,NA
+equation,181,Insecta,Hemimetabolous,Callicorixia,no,NA,NA,NA
+equation,182,Insecta,Hemimetabolous,Hydrometra,no,NA,NA,NA
+equation,183,Insecta,Hemimetabolous,Ambrysus,no,NA,NA,NA
+equation,184,Insecta,Hemimetabolous,Gerris,no,NA,NA,NA
+equation,185,Insecta,Holometabolous,Stratiomyidae,no,NA,NA,NA
+equation,186,Insecta,Holometabolous,Odontomiya,no,NA,NA,NA
+equation,187,Insecta,Holometabolous,Caloparyphus,no,NA,NA,NA
+equation,188,Insecta,Holometabolous,Aedes,no,NA,NA,NA
+equation,189,Insecta,Hemimetabolous,Atalophlebia,no,NA,NA,NA
+equation,190,Insecta,Hemimetabolous,Irpacaenis,no,NA,NA,NA
+equation,191,Insecta,Hemimetabolous,Baetidae,no,NA,NA,NA
+equation,192,Insecta,Hemimetabolous,Offadens,no,NA,NA,NA
+equation,193,Insecta,Hemimetabolous,Odonata,no,NA,NA,NA
+equation,194,Insecta,Hemimetabolous,Gomphidae,no,NA,NA,NA
+equation,195,Insecta,Hemimetabolous,Austrogomphus,no,NA,NA,NA
+equation,196,Insecta,Hemimetabolous,Hemigomphus,no,NA,NA,NA
+equation,197,Insecta,Hemimetabolous,Procordulia,no,NA,NA,NA
+equation,198,Insecta,Hemimetabolous,Hemicordulia,no,NA,NA,NA
+equation,199,Insecta,Hemimetabolous,Libellulidae,no,NA,NA,NA
+equation,200,Insecta,Hemimetabolous,Urothemis aliena,no,NA,NA,NA
+equation,201,Insecta,Hemimetabolous,Hydrobasileus brevistylus,no,NA,NA,NA
+equation,202,Insecta,Holometabolous,Chironomidae,no,NA,NA,NA
+equation,203,Insecta,Holometabolous,Chironominae,no,NA,NA,NA
+equation,204,Insecta,Holometabolous,Orthocladiinae,no,NA,NA,NA
+equation,205,Insecta,Holometabolous,Tanytarsus,no,NA,NA,NA
+equation,206,Insecta,Holometabolous,Cladotanytarsus,no,NA,NA,NA
+equation,207,Insecta,Holometabolous,Stempellina,no,NA,NA,NA
+equation,208,Insecta,Holometabolous,Chironomus,no,NA,NA,NA
+equation,209,Crustacea,Notostraca,Triops cancriformis,no,NA,NA,NA
+equation,210,Collembola,NA,Hypogastrura manubrialis,no,NA,NA,NA
+equation,211,Collembola,NA,Neanura,no,NA,NA,NA
+equation,212,Collembola,NA,Onychiurus,no,NA,NA,NA
+equation,213,Collembola,NA,Folsomia candida,no,NA,NA,NA
+equation,214,Collembola,NA,Folsomia hasegawai,no,NA,NA,NA
+equation,215,Collembola,NA,Onychiurus armatus,no,NA,NA,NA
+equation,216,Collembola,NA,Onychiurus furcifer,no,NA,NA,NA
+equation,217,Collembola,NA,Tullbergia krausbaueri,no,NA,NA,NA
+equation,218,Collembola,NA,Folsomia quadrioculata,no,NA,NA,NA
+equation,219,Collembola,NA,Isotoma notabilis,no,NA,NA,NA
+equation,220,Collembola,NA,Tomocerus flavescens,no,NA,NA,NA
+equation,221,Crustacea,Diplostraca,Bosmina hagmanni,no,NA,NA,NA
+equation,222,Crustacea,Diplostraca,Ceriodaphnia cornuta,no,NA,NA,NA
+equation,223,Crustacea,Diplostraca,Daphnia gessneri,no,NA,NA,NA
+equation,224,Crustacea,Diplostraca,Diaphanosoma spinulosum,no,NA,NA,NA
+equation,225,Crustacea,Diplostraca,Macrothrix squamosa,no,NA,NA,NA
+equation,226,Crustacea,Diplostraca,Moina minuta,no,NA,NA,NA
+equation,227,Crustacea,Copepoda,Notodiaptomus amazonicus,no,NA,NA,NA
+equation,228,Crustacea,Copepoda,Thermocyclops decipiens,no,NA,NA,NA
+equation,229,Crustacea,Copepoda,Thermocyclops minutus,no,NA,NA,NA
+equation,230,Crustacea,Copepoda,Calanoida ,no,NA,NA,NA
+equation,231,Platyhelminthes,Turbellaria,Dugesia tigrina,no,NA,NA,NA
+equation,232,Crustacea,Malacostraca,Caecidotea racovitzai,no,NA,NA,NA
+equation,233,Crustacea,Malacostraca,Lirceus lineatus,no,NA,NA,NA
+equation,234,Crustacea,Malacostraca,Crangonyx gracilus,no,NA,NA,NA
+equation,235,Crustacea,Malacostraca,Crangonyx richmondensis ,no,NA,NA,NA
+equation,236,Insecta,Hemimetabolous,Baetis,no,NA,NA,NA
+equation,237,Insecta,Hemimetabolous,Baetis,no,NA,NA,NA
+equation,238,Insecta,Hemimetabolous,Baetis,no,NA,NA,NA
+equation,239,Insecta,Hemimetabolous,Callibaetis,no,NA,NA,NA
+equation,240,Insecta,Hemimetabolous,Heterocloeon,no,NA,NA,NA
+equation,241,Insecta,Hemimetabolous,Pseudocloeon,no,NA,NA,NA
+equation,242,Insecta,Hemimetabolous,Baetisca,no,NA,NA,NA
+equation,243,Insecta,Hemimetabolous,Caenis diminuta,no,NA,NA,NA
+equation,244,Insecta,Hemimetabolous,Caenis,no,NA,NA,NA
+equation,245,Insecta,Hemimetabolous,Caenis,no,NA,NA,NA
+equation,246,Insecta,Hemimetabolous,Drunella,no,NA,NA,NA
+equation,247,Insecta,Hemimetabolous,Ephemerella,no,NA,NA,NA
+equation,248,Insecta,Hemimetabolous,Ephemerella,no,NA,NA,NA
+equation,249,Insecta,Hemimetabolous,Eurylophella temporalis,no,NA,NA,NA
+equation,250,Insecta,Hemimetabolous,Serratella,no,NA,NA,NA
+equation,251,Insecta,Hemimetabolous,Hexagenia munda,no,NA,NA,NA
+equation,252,Insecta,Hemimetabolous,Heptagenia,no,NA,NA,NA
+equation,253,Insecta,Hemimetabolous,Heptagenia,no,NA,NA,NA
+equation,254,Insecta,Hemimetabolous,Stenacron interpunctatum,no,NA,NA,NA
+equation,255,Insecta,Hemimetabolous,Stenonema modestum,no,NA,NA,NA
+equation,256,Insecta,Hemimetabolous,Stenonema modestum,no,NA,NA,NA
+equation,257,Insecta,Hemimetabolous,Stenonema,no,NA,NA,NA
+equation,258,Insecta,Hemimetabolous,Isonychia,no,NA,NA,NA
+equation,259,Insecta,Hemimetabolous,Isonychia,no,NA,NA,NA
+equation,260,Insecta,Hemimetabolous,Leptophlebia,no,NA,NA,NA
+equation,261,Insecta,Hemimetabolous,Paraleptophlebia,no,NA,NA,NA
+equation,262,Insecta,Hemimetabolous,Tricorythodes,no,NA,NA,NA
+equation,263,Insecta,Hemimetabolous,Calopteryx,no,NA,NA,NA
+equation,264,Insecta,Hemimetabolous,Argia,no,NA,NA,NA
+equation,265,Insecta,Hemimetabolous,Ischnura,no,NA,NA,NA
+equation,266,Insecta,Hemimetabolous,Boyeria vinosa,no,NA,NA,NA
+equation,267,Insecta,Hemimetabolous,Cordulegaster maculata,no,NA,NA,NA
+equation,268,Insecta,Hemimetabolous,Epitheca cynosura,no,NA,NA,NA
+equation,269,Insecta,Hemimetabolous,Epitheca semiaquae,no,NA,NA,NA
+equation,270,Insecta,Hemimetabolous,Neurocordulia molesta,no,NA,NA,NA
+equation,271,Insecta,Hemimetabolous,Dromogomphus,no,NA,NA,NA
+equation,272,Insecta,Hemimetabolous,Gomphus,no,NA,NA,NA
+equation,273,Insecta,Hemimetabolous,Gomphus,no,NA,NA,NA
+equation,274,Insecta,Hemimetabolous,Progomphus obscurus,no,NA,NA,NA
+equation,275,Insecta,Hemimetabolous,Celithemis fasciata,no,NA,NA,NA
+equation,276,Insecta,Hemimetabolous,Erythemis simplicicollis,no,NA,NA,NA
+equation,277,Insecta,Hemimetabolous,Ladona deplanata,no,NA,NA,NA
+equation,278,Insecta,Hemimetabolous,Libellula spp,no,NA,NA,NA
+equation,279,Insecta,Hemimetabolous,Plathemis lydia,no,NA,NA,NA
+equation,280,Insecta,Hemimetabolous,Allocapnia,no,NA,NA,NA
+equation,281,Insecta,Hemimetabolous,Allocapnia,no,NA,NA,NA
+equation,282,Insecta,Hemimetabolous,Allocapnia,no,NA,NA,NA
+equation,283,Insecta,Hemimetabolous,Leuctra,no,NA,NA,NA
+equation,284,Insecta,Hemimetabolous,Amphinemura,no,NA,NA,NA
+equation,285,Insecta,Hemimetabolous,Prostoia completa,no,NA,NA,NA
+equation,286,Insecta,Hemimetabolous,Acroneuria abnormis,no,NA,NA,NA
+equation,287,Insecta,Hemimetabolous,Acroneuria,no,NA,NA,NA
+equation,288,Insecta,Hemimetabolous,Agnetina capitata,no,NA,NA,NA
+equation,289,Insecta,Hemimetabolous,Beloneuria georgiana,no,NA,NA,NA
+equation,290,Insecta,Hemimetabolous,Eccoptura xanthenes,no,NA,NA,NA
+equation,291,Insecta,Hemimetabolous,Paragnetina kansensis,no,NA,NA,NA
+equation,292,Insecta,Hemimetabolous,Perlesta placida,no,NA,NA,NA
+equation,293,Insecta,Hemimetabolous,Perlesta,no,NA,NA,NA
+equation,294,Insecta,Hemimetabolous,Perlinella drymo,no,NA,NA,NA
+equation,295,Insecta,Hemimetabolous,Clioperla clio,no,NA,NA,NA
+equation,296,Insecta,Hemimetabolous,Clioperla clio,no,NA,NA,NA
+equation,297,Insecta,Hemimetabolous,Isogenus,no,NA,NA,NA
+equation,298,Insecta,Hemimetabolous,Isoperla bilineata,no,NA,NA,NA
+equation,299,Insecta,Hemimetabolous,Pteronarcys dorsata,no,NA,NA,NA
+equation,300,Insecta,Hemimetabolous,Strophopteryx,no,NA,NA,NA
+equation,301,Insecta,Hemimetabolous,Taeniopteryx lita,no,NA,NA,NA
+equation,302,Insecta,Hemimetabolous,Taeniopteryx,no,NA,NA,NA
+equation,303,Insecta,Hemimetabolous,Sigara,no,NA,NA,NA
+equation,304,Insecta,Hemimetabolous,Gerris remigis,no,NA,NA,NA
+equation,305,Insecta,Hemimetabolous,Metrobates hesperius,no,NA,NA,NA
+equation,306,Insecta,Hemimetabolous,Rhagovelia obesa,no,NA,NA,NA
+equation,307,Insecta,Hemimetabolous,Corydalus cornutus,no,NA,NA,NA
+equation,308,Insecta,Hemimetabolous,Corydalus cornutus,no,NA,NA,NA
+equation,309,Insecta,Hemimetabolous,Corydalus cornutus,no,NA,NA,NA
+equation,310,Insecta,Hemimetabolous,Nigronia serricornis,no,NA,NA,NA
+equation,311,Insecta,Hemimetabolous,Nigronia serricornis,no,NA,NA,NA
+equation,312,Insecta,Hemimetabolous,Sialis aequalis,no,NA,NA,NA
+equation,313,Insecta,Hemimetabolous,Sialis,no,NA,NA,NA
+equation,314,Insecta,Hemimetabolous,Brachycentrus etowahensis,no,NA,NA,NA
+equation,315,Insecta,Hemimetabolous,Brachycentrus,no,NA,NA,NA
+equation,316,Insecta,Hemimetabolous,Cheumatopsyche,no,NA,NA,NA
+equation,317,Insecta,Hemimetabolous,Cheumatopsyche,no,NA,NA,NA
+equation,318,Insecta,Hemimetabolous,Hydropsyche elissoma,no,NA,NA,NA
+equation,319,Insecta,Hemimetabolous,Hydropsyche incommoda,no,NA,NA,NA
+equation,320,Insecta,Hemimetabolous,Hydropsyche,no,NA,NA,NA
+equation,321,Insecta,Hemimetabolous,Hydropsyche,no,NA,NA,NA
+equation,322,Insecta,Hemimetabolous,Macrostemum carolina,no,NA,NA,NA
+equation,323,Insecta,Hemimetabolous,Macrostemum carolina,no,NA,NA,NA
+equation,324,Insecta,Hemimetabolous,Lepidostoma,no,NA,NA,NA
+equation,325,Insecta,Hemimetabolous,Oecetis,no,NA,NA,NA
+equation,326,Insecta,Hemimetabolous,Pycnopsyche luculenta,no,NA,NA,NA
+equation,327,Insecta,Hemimetabolous,Pycnopsyche scabripennis,no,NA,NA,NA
+equation,328,Insecta,Hemimetabolous,Psilotreta,no,NA,NA,NA
+equation,329,Insecta,Hemimetabolous,Chimarra,no,NA,NA,NA
+equation,330,Insecta,Hemimetabolous,Chimarra,no,NA,NA,NA
+equation,331,Insecta,Hemimetabolous,Chimarra,no,NA,NA,NA
+equation,332,Insecta,Hemimetabolous,Neureclipsis,no,NA,NA,NA
+equation,333,Insecta,Hemimetabolous,Polycentropus,no,NA,NA,NA
+equation,334,Insecta,Hemimetabolous,Lype diversa,no,NA,NA,NA
+equation,335,Insecta,Hemimetabolous,Rhyacophila,no,NA,NA,NA
+equation,336,Insecta,Hemimetabolous,Agarodes libalis,no,NA,NA,NA
+equation,337,Insecta,Holometabolous,Galerucella nymphaeae,no,NA,NA,NA
+equation,338,Insecta,Holometabolous,Hydroporus,no,NA,NA,NA
+equation,339,Insecta,Holometabolous,Ancyronyx variegata,no,NA,NA,NA
+equation,340,Insecta,Holometabolous,Macronychus glabratus,no,NA,NA,NA
+equation,341,Insecta,Holometabolous,Macronychus glabratus,no,NA,NA,NA
+equation,342,Insecta,Holometabolous,Promoresia,no,NA,NA,NA
+equation,343,Insecta,Holometabolous,Stenelmis,no,NA,NA,NA
+equation,344,Insecta,Holometabolous,Dineutes,no,NA,NA,NA
+equation,345,Insecta,Holometabolous,Peltodytes sexmaculatus,no,NA,NA,NA
+equation,346,Insecta,Holometabolous,Ceratopogonidae,no,NA,NA,NA
+equation,347,Insecta,Holometabolous,Palpomyia,no,NA,NA,NA
+equation,348,Insecta,Holometabolous,Chironominae,no,NA,NA,NA
+equation,349,Insecta,Holometabolous,Chironomini,no,NA,NA,NA
+equation,350,Insecta,Holometabolous,Chironomus,no,NA,NA,NA
+equation,351,Insecta,Holometabolous,Cladopelma,no,NA,NA,NA
+equation,352,Insecta,Holometabolous,Dicrotendipes,no,NA,NA,NA
+equation,353,Insecta,Holometabolous,Polypedilum,no,NA,NA,NA
+equation,354,Insecta,Holometabolous,Tanytarsini,no,NA,NA,NA
+equation,355,Insecta,Holometabolous,Tanytarsus,no,NA,NA,NA
+equation,356,Insecta,Holometabolous,Orthocladiinae,no,NA,NA,NA
+equation,357,Insecta,Holometabolous,Tanypodinae,no,NA,NA,NA
+equation,358,Insecta,Holometabolous,Tanypodinae,no,NA,NA,NA
+equation,359,Insecta,Holometabolous,Ablabesmyia,no,NA,NA,NA
+equation,360,Insecta,Holometabolous,Procladius,no,NA,NA,NA
+equation,361,Insecta,Holometabolous,Sciaridae,no,NA,NA,NA
+equation,362,Insecta,Holometabolous,Simuliidae,no,NA,NA,NA
+equation,363,Insecta,Holometabolous,Chrysops,no,NA,NA,NA
+equation,364,Insecta,Holometabolous,Tabanus,no,NA,NA,NA
+equation,365,Insecta,Holometabolous,Tipula abdominalis,no,NA,NA,NA
+equation,366,Insecta,Holometabolous,Tipula abdominalis,no,NA,NA,NA

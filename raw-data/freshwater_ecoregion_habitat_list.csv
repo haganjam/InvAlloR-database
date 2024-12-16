@@ -1,0 +1,427 @@
+page,habitat_id,realm,major_habitat_type,ecoregion
+1,101,Nearctic,Polar freshwaters,Alaskan Coastal
+1,102,Nearctic,Polar freshwaters,Upper Yukon
+1,103,Nearctic,Temperate coastal rivers,Alaska & Canada Pacific Coastal
+1,104,Nearctic,Temperate floodplain rivers and wetlands,Upper Mackenzie
+1,105,Nearctic,Polar freshwaters,Lower Mackenzie
+1,106,Nearctic,Polar freshwaters,Central Arctic Coastal
+1,107,Nearctic,Temperate upland rivers,Upper Saskatchewan
+1,108,Nearctic,Temperate upland rivers,Middle Saskatchewan
+1,109,Nearctic,Large lakes,English - Winnipeg Lakes
+1,110,Nearctic,Temperate coastal rivers,Southern Hudson Bay
+1,111,Nearctic,Polar freshwaters,Western Hudson Bay
+1,112,Nearctic,Polar freshwaters,Canadian Arctic Archipelago
+1,113,Nearctic,Temperate coastal rivers,Eastern Hudson Bay - Ungava
+1,114,Nearctic,Temperate coastal rivers,Gulf of St.Lawrence Coastal Drainages
+1,115,Nearctic,Temperate coastal rivers,Canadian Atlantic Islands
+2,116,Nearctic,Large lakes,Laurentian Great Lakes
+2,117,Nearctic,Temperate coastal rivers,St.Lawrence
+2,118,Nearctic,Temperate coastal rivers,Northeast US & Southeast Canada Atlantic Drainages
+2,119,Nearctic,Temperate coastal rivers,Scotia - Fundy
+2,120,Nearctic,Temperate upland rivers,Columbia Glaciated
+2,121,Nearctic,Temperate floodplain rivers and wetlands,Columbia Unglaciated
+2,122,Nearctic,Temperate upland rivers,Upper Snake
+2,123,Nearctic,Temperate coastal rivers,Oregon & Northern California Coastal
+2,124,Nearctic,Xeric freshwaters and endorheic (closed) basins,Oregon Lakes
+2,125,Nearctic,Temperate coastal rivers,Sacramento - San Joaquin
+2,126,Nearctic,Xeric freshwaters and endorheic (closed) basins,Lahontan
+2,127,Nearctic,Xeric freshwaters and endorheic (closed) basins,Bonneville
+2,128,Nearctic,Xeric freshwaters and endorheic (closed) basins,Death Valley
+2,129,Nearctic,Xeric freshwaters and endorheic (closed) basins,Vegas - Virgin
+2,130,Nearctic,Xeric freshwaters and endorheic (closed) basins,Colorado
+3,131,Nearctic,Xeric freshwaters and endorheic (closed) basins,Gila
+3,132,Nearctic,Temperate upland rivers,Upper Rio Grande - Bravo
+3,133,Nearctic,Xeric freshwaters and endorheic (closed) basins,Pecos
+3,134,Nearctic,Xeric freshwaters and endorheic (closed) basins,Rio Conchos
+3,135,Nearctic,Temperate floodplain rivers and wetlands,Lower Rio Grande - Bravo
+3,136,Nearctic,Xeric freshwaters and endorheic (closed) basins,Cuatro Cienegas
+3,137,Nearctic,Xeric freshwaters and endorheic (closed) basins,Rio Salado
+3,138,Nearctic,Xeric freshwaters and endorheic (closed) basins,Rio San Juan (Mexico)
+3,139,Nearctic,Tropical and subtropical coastal rivers,West Texas Gulf
+3,140,Nearctic,Temperate coastal rivers,East Texas Gulf
+3,141,Nearctic,Temperate coastal rivers,Sabine - Galveston
+3,142,Nearctic,Temperate upland rivers,Upper Missouri
+3,143,Nearctic,Temperate floodplain rivers and wetlands,Middle Missouri
+3,144,Nearctic,Temperate upland rivers,US Southern Plains
+3,145,Nearctic,Temperate upland rivers,Ouachita Highlands
+4,146,Nearctic,Temperate upland rivers,Central Prairie
+4,147,Nearctic,Temperate upland rivers,Ozark Highlands
+4,148,Nearctic,Temperate floodplain rivers and wetlands,Upper Mississippi
+4,149,Nearctic,Temperate floodplain rivers and wetlands,Lower Mississippi
+4,150,Nearctic,Temperate upland rivers,Teays - Old Ohio
+4,151,Nearctic,Temperate upland rivers,Cumberland
+4,152,Nearctic,Temperate upland rivers,Tennessee
+4,153,Nearctic,Temperate floodplain rivers and wetlands,Mobile Bay
+4,154,Nearctic,Temperate coastal rivers,West Florida Gulf
+4,155,Nearctic,Temperate floodplain rivers and wetlands,Apalachicola
+4,156,Nearctic,Tropical and subtropical coastal rivers,Florida Peninsula
+4,157,Nearctic,Temperate coastal rivers,Appalachian Piedmont
+4,158,Nearctic,Temperate coastal rivers,Chesapeake Bay
+4,159,Nearctic,Xeric freshwaters and endorheic (closed) basins,Southern California Coastal - Baja California
+4,160,Nearctic,Xeric freshwaters and endorheic (closed) basins,Sonora
+5,161,Nearctic,Xeric freshwaters and endorheic (closed) basins,Guzman - Samalayuca
+5,162,Nearctic,Tropical and subtropical coastal rivers,Sinaloa
+5,163,Nearctic,Xeric freshwaters and endorheic (closed) basins,Mayran - Viesca
+5,164,Neotropic,Tropical and subtropical coastal rivers,Rio Santiago
+5,165,Nearctic,Xeric freshwaters and endorheic (closed) basins,Lerma - Chapala
+5,166,Nearctic,Xeric freshwaters and endorheic (closed) basins,Llanos El Salado
+5,167,Neotropic,Tropical and subtropical coastal rivers,Panuco
+5,168,Neotropic,Tropical and subtropical coastal rivers,Ameca - Manantlan
+5,169,Neotropic,Tropical and subtropical coastal rivers,Rio Balsas
+5,170,Neotropic,Tropical and subtropical coastal rivers,Sierra Madre del Sur
+5,171,Neotropic,Tropical and subtropical coastal rivers,Papaloapan
+5,172,Neotropic,Tropical and subtropical coastal rivers,Coatzacoalcos
+5,173,Neotropic,Tropical and subtropical coastal rivers,Grijalva - Usumacinta
+5,174,Neotropic,Tropical and subtropical upland rivers,Upper Usumacinta
+5,175,Neotropic,Tropical and subtropical coastal rivers,Yucatan
+6,176,Nearctic,Oceanic Islands,Bermuda
+6,201,Neotropic,Tropical and subtropical coastal rivers,Chiapas - Fonseca
+6,202,Neotropic,Tropical and subtropical coastal rivers,Quintana Roo - Motagua
+6,203,Neotropic,Tropical and subtropical coastal rivers,Mosquitia
+6,204,Neotropic,Tropical and subtropical coastal rivers,Estero Real - Tempisque
+6,205,Neotropic,Tropical and subtropical coastal rivers,San Juan (Nicaragua/Costa Rica)
+6,206,Neotropic,Tropical and subtropical coastal rivers,Chiriqui
+6,207,Neotropic,Tropical and subtropical coastal rivers,Isthmus Caribbean
+6,208,Neotropic,Tropical and subtropical coastal rivers,Santa Maria
+6,209,Neotropic,Tropical and subtropical coastal rivers,Chagres
+6,210,Neotropic,Tropical and subtropical coastal rivers,Rio Tuira
+6,211,Neotropic,Tropical and subtropical coastal rivers,Cuba - Cayman Islands
+6,212,Neotropic,Tropical and subtropical coastal rivers,Bahama Archipelago
+6,213,Neotropic,Tropical and subtropical coastal rivers,Jamaica
+6,214,Neotropic,Tropical and subtropical coastal rivers,Hispaniola
+7,215,Neotropic,Tropical and subtropical coastal rivers,Puerto Rico - Virgin Islands
+7,216,Neotropic,Tropical and subtropical coastal rivers,Windward & Leeward Islands
+7,217,Oceania,Oceanic Islands,Cocos Island (Costa Rica)
+7,301,Neotropic,Tropical and subtropical coastal rivers,North Andean Pacific Slopes - Rio Atrato
+7,302,Neotropic,Tropical and subtropical upland rivers,Magdalena - Sinu
+7,303,Neotropic,Large lakes,Maracaibo
+7,304,Neotropic,Tropical and subtropical coastal rivers,South America Caribbean Drainages - Trinidad
+7,305,Neotropic,Montane freshwaters,Orinoco High Andes
+7,306,Neotropic,Montane freshwaters,Orinoco Piedmont
+7,307,Neotropic,Tropical and subtropical floodplain rivers and wetland complexes,Orinoco Llanos
+7,308,Neotropic,Tropical and subtropical upland rivers,Orinoco Guiana Shield
+7,309,Neotropic,large river deltas,Orinoco Delta & Coastal Drainages
+7,310,Neotropic,Tropical and subtropical upland rivers,Essequibo
+7,311,Neotropic,Tropical and subtropical upland rivers,Guianas
+7,312,Neotropic,Montane freshwaters,Amazonas High Andes
+8,313,Neotropic,Montane freshwaters,Western Amazon Piedmont
+8,314,Neotropic,Tropical and subtropical floodplain rivers and wetland complexes,Rio Negro
+8,315,Neotropic,Tropical and subtropical upland rivers,Amazonas Guiana Shield
+8,316,Neotropic,Tropical and subtropical floodplain rivers and wetland complexes,Amazonas Lowlands
+8,317,Neotropic,Montane freshwaters,Ucayali - Urubamba Piedmont
+8,318,Neotropic,Tropical and subtropical upland rivers,Mamore - Madre de Dios Piedmont
+8,319,Neotropic,Tropical and subtropical upland rivers,Guapore - Itenez
+8,320,Neotropic,Tropical and subtropical upland rivers,Tapajos - Juruena
+8,321,Neotropic,Tropical and subtropical upland rivers,Madeira Brazilian Shield
+8,322,Neotropic,Tropical and subtropical upland rivers,Xingu
+8,323,Neotropic,large river deltas,Amazonas Estuary & Coastal Drainages
+8,324,Neotropic,Tropical and subtropical upland rivers,Tocantins - Araguaia
+8,325,Neotropic,Tropical and subtropical upland rivers,Parnaiba
+8,326,Neotropic,Tropical and subtropical coastal rivers,Northeastern Caatinga & Coastal Drainages
+8,327,Neotropic,Tropical and subtropical upland rivers,S. Francisco
+9,328,Neotropic,Tropical and subtropical coastal rivers,Northeastern Mata Atlantica
+9,329,Neotropic,Tropical and subtropical coastal rivers,Paraiba do Sul
+9,330,Neotropic,Tropical and subtropical coastal rivers,Ribeira de Iguape
+9,331,Neotropic,Tropical and subtropical coastal rivers,Southeastern Mata Atlantica
+9,332,Neotropic,Tropical and subtropical upland rivers,Lower Uruguay
+9,333,Neotropic,Tropical and subtropical upland rivers,Upper Uruguay
+9,334,Neotropic,Temperate coastal rivers,Laguna dos Patos
+9,335,Neotropic,Tropical and subtropical coastal rivers,Tramandai - Mampituba
+9,336,Neotropic,Xeric freshwaters and endorheic (closed) basins,Central Andean Pacific Slopes
+9,337,Neotropic,Xeric freshwaters and endorheic (closed) basins,Titicaca
+9,338,Neotropic,Xeric freshwaters and endorheic (closed) basins,Atacama
+9,339,Neotropic,Xeric freshwaters and endorheic (closed) basins,Mar Chiquita - Salinas Grandes
+9,340,Neotropic,Montane freshwaters,Cuyan - Desaguadero
+9,341,Neotropic,Temperate coastal rivers,South Andean Pacific Slopes
+9,342,Neotropic,Tropical and subtropical floodplain rivers and wetland complexes,Chaco
+10,343,Neotropic,Tropical and subtropical floodplain rivers and wetland complexes,Paraguay
+10,344,Neotropic,Tropical and subtropical upland rivers,Upper Parana
+10,345,Neotropic,Temperate floodplain rivers and wetlands,Lower Parana
+10,346,Neotropic,Tropical and subtropical upland rivers,Iguassu
+10,347,Neotropic,Temperate coastal rivers,Bonaerensean Drainages
+10,348,Neotropic,Temperate coastal rivers,Patagonia
+10,349,Neotropic,Temperate coastal rivers,Valdivian Lakes
+10,350,Neotropic,Oceanic Islands,Galapagos Islands
+10,351,Neotropic,Oceanic Islands,Juan Fernandez Island
+10,352,Neotropic,Tropical and subtropical coastal rivers,Fluminense
+10,401,Palearctic,Polar freshwaters,Iceland - Jan Mayen
+10,402,Palearctic,Temperate coastal rivers,Northern British Isles
+10,403,Palearctic,Temperate coastal rivers,Cantabric Coast - Languedoc
+10,404,Palearctic,Temperate floodplain rivers and wetlands,Central & Western Europe
+10,405,Palearctic,Polar freshwaters,Norwegian Sea Drainages
+11,406,Palearctic,Polar freshwaters,Northern Baltic Drainages
+11,407,Palearctic,Polar freshwaters,Barents Sea Drainages
+11,408,Palearctic,Temperate coastal rivers,Southern Baltic Lowlands
+11,409,Palearctic,Large lakes,Lake Onega - Lake Ladoga
+11,410,Palearctic,Temperate floodplain rivers and wetlands,Volga - Ural
+11,411,Palearctic,Xeric freshwaters and endorheic (closed) basins,Western Caspian Drainages
+11,412,Palearctic,Temperate coastal rivers,Western Iberia
+11,413,Palearctic,Temperate floodplain rivers and wetlands,Southern Iberia
+11,414,Palearctic,Temperate floodplain rivers and wetlands,Eastern Iberia
+11,415,Palearctic,Temperate coastal rivers,Gulf of Venice Drainages
+11,416,Palearctic,Temperate coastal rivers,Italian Peninsula & Islands
+11,417,Palearctic,Temperate upland rivers,Upper Danube
+11,418,Palearctic,Temperate floodplain rivers and wetlands,Dniester - Lower Danube
+11,419,Palearctic,Temperate coastal rivers,Dalmatia
+11,420,Palearctic,Temperate coastal rivers,Southeast Adriatic Drainages
+12,421,Palearctic,Temperate coastal rivers,Ionian Drainages
+12,422,Palearctic,Temperate coastal rivers,Vardar
+12,423,Palearctic,Temperate coastal rivers,Thrace
+12,424,Palearctic,Temperate coastal rivers,Aegean Drainages
+12,425,Palearctic,Temperate floodplain rivers and wetlands,Dnieper - South Bug
+12,426,Palearctic,Temperate coastal rivers,Crimea Peninsula
+12,427,Palearctic,Temperate floodplain rivers and wetlands,Don
+12,428,Palearctic,Temperate coastal rivers,Kuban
+12,429,Palearctic,Temperate coastal rivers,Western Anatolia
+12,430,Palearctic,Temperate coastal rivers,Northern Anatolia
+12,431,Palearctic,Xeric freshwaters and endorheic (closed) basins,Central Anatolia
+12,432,Palearctic,Temperate coastal rivers,Southern Anatolia
+12,433,Palearctic,Temperate coastal rivers,Western Transcaucasia
+12,434,Palearctic,Temperate floodplain rivers and wetlands,Kura - South Caspian Drainages
+12,435,Palearctic,Xeric freshwaters and endorheic (closed) basins,Sinai
+13,436,Palearctic,Xeric freshwaters and endorheic (closed) basins,Coastal Levant
+13,437,Palearctic,Temperate coastal rivers,Orontes
+13,438,Palearctic,Xeric freshwaters and endorheic (closed) basins,Jordan River
+13,439,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Southwestern Arabian Coast
+13,440,Palearctic,Xeric freshwaters and endorheic (closed) basins,Arabian Interior
+13,441,Palearctic,Temperate floodplain rivers and wetlands,Lower Tigris & Euphrates
+13,442,Palearctic,Temperate floodplain rivers and wetlands,Upper Tigris & Euphrates
+13,443,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Oman Mountains
+13,444,Palearctic,Xeric freshwaters and endorheic (closed) basins,Lake Van
+13,445,Palearctic,Xeric freshwaters and endorheic (closed) basins,Orumiyeh
+13,446,Palearctic,Xeric freshwaters and endorheic (closed) basins,Caspian Highlands
+13,447,Palearctic,Xeric freshwaters and endorheic (closed) basins,Namak
+13,448,Palearctic,Xeric freshwaters and endorheic (closed) basins,Kavir & Lut Deserts
+13,449,Palearctic,Xeric freshwaters and endorheic (closed) basins,Esfahan
+13,450,Palearctic,Xeric freshwaters and endorheic (closed) basins,Turan Plain
+14,451,Palearctic,Temperate coastal rivers,Northern Hormuz Drainages
+14,452,Palearctic,Large lakes,Caspian Marine
+14,453,Palearctic,Large lakes,Volga Delta - Northern Caspian Drainages
+14,501,Palearctic,Temperate coastal rivers,Atlantic Northwest Africa
+14,502,Palearctic,Temperate coastal rivers,Mediterranean Northwest Africa
+14,503,Palearctic,Xeric freshwaters and endorheic (closed) basins,Sahara
+14,504,Palearctic,Xeric freshwaters and endorheic (closed) basins,Dry Sahel
+14,505,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Lower Niger - Benue
+14,506,Afrotropic,large river deltas,Niger Delta
+14,507,Afrotropic,Tropical and subtropical upland rivers,Upper Niger
+14,508,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Inner Niger Delta
+14,509,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Senegal - Gambia
+14,510,Afrotropic,Montane freshwaters,Fouta - Djalon
+14,511,Afrotropic,Tropical and subtropical coastal rivers,Northern Upper Guinea
+14,512,Afrotropic,Tropical and subtropical coastal rivers,Southern Upper Guinea
+15,513,Afrotropic,Montane freshwaters,Mount Nimba
+15,514,Afrotropic,Tropical and subtropical coastal rivers,Eburneo
+15,515,Afrotropic,Tropical and subtropical coastal rivers,Ashanti
+15,516,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Volta
+15,517,Afrotropic,Tropical and subtropical coastal rivers,Bight Drainages
+15,518,Afrotropic,Tropical and subtropical coastal rivers,Northern Gulf of Guinea Drainages - Bioko
+15,519,Afrotropic,Montane freshwaters,Western Equatorial Crater Lakes
+15,520,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Lake Chad
+15,521,Afrotropic,Large lakes,Lake Victoria Basin
+15,522,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Upper Nile
+15,523,Palearctic,Xeric freshwaters and endorheic (closed) basins,Lower Nile
+15,524,Palearctic,large river deltas,Nile Delta
+15,525,Afrotropic,Montane freshwaters,Ethiopian Highlands
+15,526,Afrotropic,Montane freshwaters,Lake Tana
+15,527,Palearctic,Xeric freshwaters and endorheic (closed) basins,Western Red Sea Drainages
+16,528,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Northern Eastern Rift
+16,529,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Horn of Africa
+16,530,Afrotropic,Large lakes,Lake Turkana
+16,531,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Shebelle - Juba
+16,532,Afrotropic,Tropical and subtropical coastal rivers,Ogooue - Nyanga - Kouilou - Niari
+16,533,Afrotropic,Tropical and subtropical coastal rivers,Southern Gulf of Guinea Drainages
+16,534,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Sangha
+16,535,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Sudanic Congo - Oubangi
+16,536,Afrotropic,Tropical and subtropical upland rivers,Uele
+16,537,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Cuvette Centrale
+16,538,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Tumba
+16,539,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Upper Congo Rapids
+16,540,Afrotropic,Tropical and subtropical upland rivers,Upper Congo
+16,541,Afrotropic,Montane freshwaters,Albertine Highlands
+16,542,Afrotropic,Large lakes,Lake Tanganyika
+17,543,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Malagarasi - Moyowosi
+17,544,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Bangweulu - Mweru
+17,545,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Upper Lualaba
+17,546,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Kasai
+17,547,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Mai Ndombe
+17,548,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Malebo Pool
+17,549,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Lower Congo Rapids
+17,550,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Lower Congo
+17,551,Afrotropic,Tropical and subtropical coastal rivers,Cuanza
+17,552,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Namib
+17,553,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Etosha
+17,554,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Karstveld Sink Holes
+17,555,Afrotropic,Tropical and subtropical upland rivers,Zambezian Headwaters
+17,556,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Upper Zambezi Floodplains
+17,557,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Kafue
+18,558,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Middle Zambezi - Luangwa
+18,559,Afrotropic,Large lakes,Lake Malawi
+18,560,Afrotropic,Tropical and subtropical upland rivers,Zambezian Highveld
+18,561,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Lower Zambezi
+18,562,Afrotropic,Montane freshwaters,Mulanje
+18,563,Afrotropic,Montane freshwaters,Eastern Zimbabwe Highlands
+18,564,Afrotropic,Tropical and subtropical coastal rivers,Coastal East Africa
+18,565,Afrotropic,Large lakes,Lake Rukwa
+18,566,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Southern Eastern Rift
+18,567,Afrotropic,Tropical and subtropical coastal rivers,"Tana, Athi & Coastal Drainages"
+18,568,Afrotropic,Tropical and subtropical coastal rivers,Pangani
+18,569,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Okavango
+18,570,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Kalahari
+18,571,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Southern Kalahari
+18,572,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Western Orange
+19,573,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Karoo
+19,574,Afrotropic,Montane freshwaters,Drakensberg - Maloti Highlands
+19,575,Afrotropic,Temperate upland rivers,Southern Temperate Highveld
+19,576,Afrotropic,Tropical and subtropical coastal rivers,Zambezian Lowveld
+19,577,Afrotropic,Montane freshwaters,Amatolo - Winterberg Highlands
+19,578,Afrotropic,Temperate coastal rivers,Cape Fold
+19,579,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Western Madagascar
+19,580,Afrotropic,Tropical and subtropical floodplain rivers and wetland complexes,Northwestern Madagascar
+19,581,Afrotropic,Montane freshwaters,Madagascar Eastern Highlands
+19,582,Afrotropic,Xeric freshwaters and endorheic (closed) basins,Southern Madagascar
+19,583,Afrotropic,Tropical and subtropical coastal rivers,Madagascar Eastern Lowlands
+19,584,Afrotropic,Oceanic Islands,Comoros - Mayotte
+19,585,Afrotropic,Oceanic Islands,Seychelles
+19,586,Afrotropic,Oceanic Islands,Mascarenes
+19,587,Afrotropic,Tropical and subtropical coastal rivers,S. Tome & Principe - Annobon
+20,601,Palearctic,Xeric freshwaters and endorheic (closed) basins,Irgyz -Turgai
+20,602,Palearctic,Polar freshwaters,Ob
+20,603,Palearctic,Temperate upland rivers,Upper Irtysh
+20,604,Palearctic,Montane freshwaters,Chuya
+20,605,Palearctic,Polar freshwaters,Yenisei
+20,606,Palearctic,Large lakes,Lake Baikal
+20,607,Palearctic,Polar freshwaters,Taimyr
+20,608,Palearctic,Polar freshwaters,Lena
+20,609,Palearctic,Polar freshwaters,Kolyma
+20,610,Palearctic,Polar freshwaters,Anadyr
+20,611,Palearctic,Polar freshwaters,East Chukotka
+20,612,Palearctic,Temperate coastal rivers,Koryakia
+20,613,Palearctic,Temperate coastal rivers,Kamchatka & Northern Kurils
+20,614,Palearctic,Temperate coastal rivers,Okhotsk Coast
+20,615,Palearctic,Temperate coastal rivers,Coastal Amur
+21,616,Palearctic,Temperate floodplain rivers and wetlands,Lower Amur
+21,617,Palearctic,Temperate upland rivers,Middle Amur
+21,618,Palearctic,Temperate upland rivers,Argun
+21,619,Palearctic,Temperate upland rivers,Shilka (Amur)
+21,620,Palearctic,Temperate floodplain rivers and wetlands,Songhua Jiang
+21,621,Palearctic,Xeric freshwaters and endorheic (closed) basins,Inner Mongolia Endorheic Basins
+21,622,Palearctic,Xeric freshwaters and endorheic (closed) basins,Western Mongolia
+21,623,Palearctic,Xeric freshwaters and endorheic (closed) basins,Dzungaria
+21,624,Palearctic,Xeric freshwaters and endorheic (closed) basins,Balkash - Alakul
+21,625,Palearctic,Xeric freshwaters and endorheic (closed) basins,Tarim
+21,626,Palearctic,Temperate upland rivers,Lower & Middle Syr Darya
+21,627,Palearctic,Large lakes,Lake Issyk Kul - Upper Chu
+21,628,Palearctic,Temperate upland rivers,Northern Central Asian Highlands
+21,629,Palearctic,Large lakes,Aral Sea Drainages
+21,630,Palearctic,Temperate upland rivers,Middle Amu Darya
+22,631,Palearctic,Xeric freshwaters and endorheic (closed) basins,Upper Amu Darya
+22,632,Palearctic,Temperate upland rivers,Qaidan
+22,633,Palearctic,Montane freshwaters,Upper Huang He
+22,634,Palearctic,Montane freshwaters,Upper Huang He Corridor
+22,635,Palearctic,Temperate floodplain rivers and wetlands,Huang He Great Bend
+22,636,Palearctic,Temperate floodplain rivers and wetlands,Lower Huang He
+22,637,Palearctic,Temperate floodplain rivers and wetlands,Liao He
+22,638,Palearctic,Temperate coastal rivers,Eastern Yellow Sea Drainages
+22,639,Palearctic,Temperate coastal rivers,Southeastern Korean Peninsula
+22,640,Palearctic,Temperate coastal rivers,Hamgyong - Sanmaek
+22,641,Palearctic,Temperate coastal rivers,"Sakhalin, Hokkaido, & Sikhote - Alin Coast"
+22,642,Palearctic,Temperate coastal rivers,Honshu - Shikoku - Kyushu
+22,643,Palearctic,Large lakes,Biwa Ko
+22,701,Palearctic,Xeric freshwaters and endorheic (closed) basins,Baluchistan
+22,702,Palearctic,Xeric freshwaters and endorheic (closed) basins,Helmand - Sistan
+23,703,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Lower & Middle Indus
+23,704,Palearctic,Montane freshwaters,Yaghistan
+23,705,Palearctic,Montane freshwaters,Indus Himalayan Foothills
+23,706,Palearctic,Montane freshwaters,Upper Indus
+23,707,Palearctic,Xeric freshwaters and endorheic (closed) basins,Tibetan Plateau Endorheic Drainages
+23,708,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Narmada-Tapti
+23,709,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Ganges Delta & Plain
+23,710,Indo-Malay,Montane freshwaters,Ganges Himalayan Foothills
+23,711,Palearctic,Tropical and subtropical upland rivers,Upper Brahmaputra
+23,712,Indo-Malay,Tropical and subtropical upland rivers,Middle Brahmaputra
+23,713,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Northern Deccan Plateau
+23,714,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Southern Deccan Plateau
+23,715,Indo-Malay,Tropical and subtropical coastal rivers,Western Ghats
+23,716,Indo-Malay,Tropical and subtropical coastal rivers,Southeastern Ghats
+23,717,Indo-Malay,Tropical and subtropical coastal rivers,Sri Lanka Dry Zone
+24,718,Indo-Malay,Tropical and subtropical coastal rivers,Sri Lanka Wet Zone
+24,719,Indo-Malay,Tropical and subtropical coastal rivers,Chin Hills - Arakan Coast
+24,720,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Sitang - Irawaddy
+24,721,Palearctic,Tropical and subtropical upland rivers,Upper Salween
+24,722,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Lower & Middle Salween
+24,723,Indo-Malay,Montane freshwaters,Inle Lake
+24,724,Palearctic,Tropical and subtropical upland rivers,Upper Lancang (Mekong)
+24,725,Palearctic,Montane freshwaters,Er Hai
+24,726,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Lower Lancang (Mekong)
+24,727,Indo-Malay,Tropical and subtropical upland rivers,Khorat Plateau (Mekong)
+24,728,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Kratie - Stung Treng (Mekong)
+24,729,Indo-Malay,large river deltas,Mekong Delta
+24,730,Indo-Malay,Tropical and subtropical coastal rivers,Southern Annam
+24,731,Indo-Malay,Tropical and subtropical coastal rivers,Eastern Gulf of Thailand Drainages
+24,732,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Chao Phraya
+25,733,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Mae Khlong
+25,734,Indo-Malay,Tropical and subtropical coastal rivers,Malay Peninsula Eastern Slope
+25,735,Indo-Malay,Tropical and subtropical coastal rivers,Northern Central Sumatra - Western Malaysia
+25,736,Indo-Malay,Tropical and subtropical coastal rivers,Aceh
+25,737,Indo-Malay,Tropical and subtropical coastal rivers,Indian Ocean Slope of Sumatra & Java
+25,738,Indo-Malay,Tropical and subtropical coastal rivers,Southern Central Sumatra
+25,739,Indo-Malay,Tropical and subtropical coastal rivers,Southern Sumatra - Western Java
+25,740,Indo-Malay,Tropical and subtropical coastal rivers,Central & Eastern Java
+25,741,Indo-Malay,Tropical and subtropical coastal rivers,Kapuas
+25,742,Indo-Malay,Tropical and subtropical coastal rivers,Northwestern Borneo
+25,743,Indo-Malay,Montane freshwaters,Borneo Highlands
+25,744,Indo-Malay,Tropical and subtropical coastal rivers,Northeastern Borneo
+25,745,Indo-Malay,Tropical and subtropical coastal rivers,Eastern Borneo
+25,746,Indo-Malay,Tropical and subtropical coastal rivers,Southeastern Borneo
+25,747,Australasia,Tropical and subtropical coastal rivers,Malukku
+26,748,Australasia,Tropical and subtropical coastal rivers,Lesser Sunda Islands
+26,749,Australasia,Tropical and subtropical coastal rivers,Sulawesi
+26,750,Australasia,Montane freshwaters,Malili Lakes
+26,751,Australasia,Montane freshwaters,Lake Poso
+26,752,Indo-Malay,Tropical and subtropical coastal rivers,Mindanao
+26,753,Indo-Malay,Montane freshwaters,Lake Lanao
+26,755,Indo-Malay,Tropical and subtropical coastal rivers,Northern Philippine Islands
+26,756,Indo-Malay,Tropical and subtropical coastal rivers,Palawan - Busuanga - Mindoro
+26,757,Indo-Malay,Tropical and subtropical coastal rivers,Western Taiwan
+26,758,Indo-Malay,Tropical and subtropical coastal rivers,Eastern Taiwan
+26,759,Indo-Malay,Tropical and subtropical coastal rivers,Hainan
+26,760,Indo-Malay,Tropical and subtropical coastal rivers,Northern Annam
+26,761,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Song Hong
+26,762,Palearctic,Montane freshwaters,Yunnan Lakes
+26,763,Indo-Malay,Tropical and subtropical floodplain rivers and wetland complexes,Xi Yiang
+27,764,Palearctic,Temperate upland rivers,Upper Yangtze
+27,765,Palearctic,Temperate upland rivers,Middle Yangtze
+27,766,Palearctic,Temperate floodplain rivers and wetlands,Lower Yangtze
+27,767,Indo-Malay,Tropical and subtropical coastal rivers,Coastal Fujian - Zeijang
+27,768,Indo-Malay,Oceanic Islands,Andaman Islands
+27,769,Indo-Malay,Oceanic Islands,Nicobar Islands
+27,801,Australasia,Temperate coastal rivers,Southwestern Australia
+27,802,Australasia,Xeric freshwaters and endorheic (closed) basins,Pilbara
+27,803,Australasia,Tropical and subtropical coastal rivers,Kimberley
+27,804,Australasia,Xeric freshwaters and endorheic (closed) basins,Paleo
+27,805,Australasia,Tropical and subtropical coastal rivers,Arafura - Carpentaria
+27,806,Australasia,Xeric freshwaters and endorheic (closed) basins,Lake Eyre Basin
+27,807,Australasia,Temperate coastal rivers,Eastern Coastal Australia
+27,808,Australasia,Temperate floodplain rivers and wetlands,Murray - Darling
+27,809,Australasia,Temperate coastal rivers,Bass Strait Drainages
+28,810,Australasia,Temperate coastal rivers,Southern Tasmania
+28,811,Australasia,Temperate coastal rivers,New Zealand
+28,812,Australasia,Tropical and subtropical coastal rivers,Vogelkop - Bomberai
+28,813,Australasia,Montane freshwaters,New Guinea North Coast
+28,814,Australasia,Montane freshwaters,New Guinea Central Mountains
+28,815,Australasia,Tropical and subtropical coastal rivers,Southwest New Guinea - Trans-Fly Lowland
+28,816,Australasia,Tropical and subtropical coastal rivers,Papuan Peninsula
+28,817,Australasia,Tropical and subtropical coastal rivers,Bismarck Archipelago
+28,818,Australasia,Tropical and subtropical coastal rivers,Solomon Islands
+28,819,Oceania,Oceanic Islands,Vanuatu
+28,820,Australasia,Tropical and subtropical coastal rivers,New Caledonia
+28,821,Oceania,Oceanic Islands,Fiji
+28,822,Oceania,Oceanic Islands,Wallis - Futuna
+28,823,Oceania,Oceanic Islands,Samoas
+28,824,Oceania,Oceanic Islands,Society Islands
+29,825,Oceania,Oceanic Islands,Tubuai Islands
+29,826,Oceania,Oceanic Islands,Marquesas Islands
+29,827,Oceania,Oceanic Islands,Rapa
+29,828,Oceania,Oceanic Islands,Hawaiian Islands
+29,829,Oceania,Oceanic Islands,East Caroline Islands
+29,830,Oceania,Oceanic Islands,West Caroline Islands

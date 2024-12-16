@@ -1,0 +1,367 @@
+db_taxon,db_life_stage,equation_id,preservation,preservation_percentage,correction_percentage,correction_factor_id,body_size_meas,body_size_unit,body_size_min,body_size_max,equation_form,log_base,a,b,dry_biomass_scale,dry_biomass_min,dry_biomass_max,dry_biomass_unit,RMS,n,r2,lm_correction,lm_correction_type,lm_reference,reference
+Coloburiscus humeralis,nymph,1,none,NA,NA,NA,body_length,mm,8.7,15.5,model1,2.718282,-3.6445,2.47,1,4,22.7,mg,NA,53,0.76,,BC_correction,strimbu_2018,1
+Deleatidium,nymph,2,none,NA,NA,NA,body_length,mm,3.9,10.4,model1,2.718282,-5.38,3.0555,1,0.3,2.7,mg,NA,53,0.91,,BC_correction,strimbu_2018,1
+Nesameletus,nymph,3,none,NA,NA,NA,body_length,mm,8.1,15.3,model1,2.718282,-6.8917,3.5268,1,2.2,20.9,mg,NA,39,0.85,,BC_correction,strimbu_2018,1
+Zephlebia,nymph,4,none,NA,NA,NA,body_length,mm,4.3,16.3,model1,2.718282,-4.3066,2.5252,1,0.3,10.3,mg,NA,23,0.9,,BC_correction,strimbu_2018,1
+Stenoperla prasina,nymph,5,none,NA,NA,NA,body_length,mm,11.5,29.5,model1,2.718282,-6.835,3.2787,1,2.1,51.4,mg,NA,12,0.83,,BC_correction,strimbu_2018,1
+Austroperla cyrene,nymph,6,none,NA,NA,NA,body_length,mm,6.1,15.8,model1,2.718282,-4.7875,2.5909,1,1,9.6,mg,NA,33,0.95,,BC_correction,strimbu_2018,1
+Olinga feredayi,larva,7,none,NA,NA,NA,body_length,mm,3.9,12.2,model1,2.718282,-6.5681,3.3417,1,0.1,5.9,mg,NA,41,0.96,,BC_correction,strimbu_2018,1
+Aoteapsyche,larva,8,none,NA,NA,NA,body_length,mm,5.2,19.2,model1,2.718282,-6.0016,3.0349,1,0.3,20,mg,NA,26,0.88,,BC_correction,strimbu_2018,1
+Hydrobiosidae,larva,9,none,NA,NA,NA,body_length,mm,4.5,25,model1,2.718282,-5.2103,2.2222,1,0.1,15.2,mg,NA,43,0.69,,BC_correction,strimbu_2018,1
+Archichauliodes diversus,larva,10,none,NA,NA,NA,body_length,mm,6.5,35,model1,2.718282,-5.5204,2.6784,1,0.5,75.7,mg,NA,27,0.94,,BC_correction,strimbu_2018,1
+Aphrophila neozelandica,larva,11,none,NA,NA,NA,body_length,mm,6.7,16.8,model1,2.718282,-4.2771,1.8086,1,0.5,2.5,mg,NA,18,0.92,,BC_correction,strimbu_2018,1
+Chironomidae,larva,12,none,NA,NA,NA,body_length,mm,2.1,4.1,model1,2.718282,-3.8757,2.7206,1,0.08,0.85,mg,NA,23,0.93,,BC_correction,strimbu_2018,1
+Austrosimulium,larva,13,none,NA,NA,NA,body_length,mm,2.1,4.7,model1,2.718282,-4.9029,2.4205,1,0.06,0.35,mg,NA,21,0.9,,BC_correction,strimbu_2018,1
+Elmidae,larva,14,none,NA,NA,NA,body_length,mm,2.9,6.9,model1,2.718282,-6.0784,3.092,1,1.4,10.4,mg,NA,32,0.83,,BC_correction,strimbu_2018,1
+Potamopyrgus antipodarum,none,15,none,NA,NA,NA,shell_height,mm,1.7,5.2,model1,2.718282,-2.0961,2.4506,1,0.4,7.9,mg,NA,35,0.93,,BC_correction,strimbu_2018,1
+Bosmina longispina,adult,16,formaldehyde,4,35.9,38_39,body_length,mm,0.29,0.565,model1,2.718282,-3.287,3.09,1,NA,NA,mg,0.1071,9,0.84,NA,RMS_correction,bird_prairie_1985,2
+Bosmina longispina,adult,17,formaldehyde,4,35.9,38_39,body_length,mm,0.27,0.775,model1,2.718282,-3.8769,2.73,1,NA,NA,mg,0.0624,15,0.94,NA,RMS_correction,bird_prairie_1985,2
+Limnosida flontosa,adult,18,formaldehyde,4,35.9,38_39,body_length,mm,0.63,1.75,model1,2.718282,-4.6624,2.69,1,NA,NA,mg,0.1996,40,0.63,NA,RMS_correction,bird_prairie_1985,2
+Eurytemora lacustris,adult,19,formaldehyde,4,35.9,38_39,body_length,mm,0.575,1.715,model1,2.718282,-4.9416,2.57,1,NA,NA,mg,0.2085,30,0.62,NA,RMS_correction,bird_prairie_1985,2
+Cyclops,adult,20,formaldehyde,4,35.9,38_39,body_length,mm,0.95,1.605,model1,2.718282,-5.0969,3.63,1,NA,NA,mg,0.1111,31,0.75,NA,RMS_correction,bird_prairie_1985,2
+Mesocyclops,adult,21,formaldehyde,4,35.9,38_39,body_length,mm,0.34,0.93,model1,2.718282,-4.5109,2.57,1,NA,NA,mg,0.0657,34,0.9,NA,RMS_correction,bird_prairie_1985,2
+Mesocyclops,adult,22,formaldehyde,4,35.9,38_39,body_length,mm,0.34,0.845,model1,2.718282,-4.8283,2.3,1,NA,NA,mg,0.1203,15,0.81,NA,RMS_correction,bird_prairie_1985,2
+Mesocyclops,adult,23,formaldehyde,4,35.9,38_39,body_length,mm,0.355,0.945,model1,2.718282,-4.9889,3.12,1,NA,NA,mg,0.1144,15,0.9,NA,RMS_correction,bird_prairie_1985,2
+Thermocyclops,adult,24,formaldehyde,4,35.9,38_39,body_length,mm,0.34,0.93,model1,2.718282,-4.5109,2.57,1,NA,NA,mg,0.0657,34,0.9,NA,RMS_correction,bird_prairie_1985,2
+Thermocyclops,adult,25,formaldehyde,4,35.9,38_39,body_length,mm,0.34,0.845,model1,2.718282,-4.8283,2.3,1,NA,NA,mg,0.1203,15,0.81,NA,RMS_correction,bird_prairie_1985,2
+Thermocyclops,adult,26,formaldehyde,4,35.9,38_39,body_length,mm,0.355,0.945,model1,2.718282,-4.9889,3.12,1,NA,NA,mg,0.1144,15,0.9,NA,RMS_correction,bird_prairie_1985,2
+Klapopteryx kuscheli,nymph,27,formaldehyde,4,NA,NA,body_length,mm,4.5,25,model1,2.718282,-5.16,2.53,1,NA,NA,mg,NA,39,0.94,NA,NA,NA,3
+Pictetoperla gayi,nymph,28,formaldehyde,4,NA,NA,body_length,mm,2,20,model1,2.718282,-4.41,2.66,1,NA,NA,mg,NA,23,0.96,NA,NA,NA,3
+Kempnyela genualis,nymph,29,formaldehyde,4,NA,NA,body_length,mm,3,19,model1,2.718282,-4.83,2.74,1,NA,NA,mg,NA,17,0.94,NA,NA,NA,3
+Notoperla archiplatae,nymph,30,formaldehyde,4,NA,NA,body_length,mm,2,16,model1,2.718282,-5.46,3.15,1,NA,NA,mg,NA,39,0.85,NA,NA,NA,3
+Notoperlopsis femina,nymph,31,formaldehyde,4,NA,NA,body_length,mm,3,15,model1,2.718282,-6.29,2.94,1,NA,NA,mg,NA,31,0.86,NA,NA,NA,3
+Antarctoperla michaelseni ,nymph,32,formaldehyde,4,NA,NA,body_length,mm,2,9,model1,2.718282,-3.49,1.61,1,NA,NA,mg,NA,22,0.74,NA,NA,NA,3
+Aubertoperla illiesi,nymph,33,formaldehyde,4,NA,NA,body_length,mm,2,5.5,model1,2.718282,-5.28,2.78,1,NA,NA,mg,NA,23,0.87,NA,NA,NA,3
+Senzilloides panguipulli ,nymph,34,formaldehyde,4,NA,NA,body_length,mm,2,17,model1,2.718282,-4.69,2.7,1,NA,NA,mg,NA,27,0.93,NA,NA,NA,3
+Penaphlebia chilensis,nymph,35,formaldehyde,4,NA,NA,body_length,mm,3,7,model1,2.718282,-4.71,2.29,1,NA,NA,mg,NA,13,0.87,NA,NA,NA,3
+Meridialaris,nymph,36,formaldehyde,4,NA,NA,body_length,mm,2.5,11,model1,2.718282,-9.95,4.84,1,NA,NA,mg,NA,39,0.87,NA,NA,NA,3
+Metamonius,nymph,37,formaldehyde,4,NA,NA,body_length,mm,5,11.5,model1,2.718282,-6.36,3.26,1,NA,NA,mg,NA,41,0.88,NA,NA,NA,3
+Chiloporter eatoni,nymph,38,formaldehyde,4,NA,NA,body_length,mm,6,15,model1,2.718282,-4.83,2.67,1,NA,NA,mg,NA,14,0.87,NA,NA,NA,3
+Baetis,nymph,39,formaldehyde,4,NA,NA,body_length,mm,2,6,model1,2.718282,-5.25,2.73,1,NA,NA,mg,NA,21,0.84,NA,NA,NA,3
+Smicridea,larva,40,formaldehyde,4,NA,NA,body_length,mm,3,16,model1,2.718282,-4.77,2.79,1,NA,NA,mg,NA,44,0.88,NA,NA,NA,3
+Neoatopsyche,larva,41,formaldehyde,4,NA,NA,body_length,mm,3,13,model1,2.718282,-5.56,2.51,1,NA,NA,mg,NA,17,0.95,NA,NA,NA,3
+Cailloma,larva,42,formaldehyde,4,NA,NA,body_length,mm,3.5,13,model1,2.718282,-4.65,2.47,1,NA,NA,mg,NA,24,0.89,NA,NA,NA,3
+Rheochorema,larva,43,formaldehyde,4,NA,NA,body_length,mm,2,7.5,model1,2.718282,-4.7,2.37,1,NA,NA,mg,NA,7,0.99,NA,NA,NA,3
+Paratrichocladius,larva,44,formaldehyde,4,10.3,13,body_length,mm,3,7,model1,2.718282,-6.38,3.23,1,NA,NA,mg,NA,17,0.9,NA,NA,NA,3
+Lispoides,larva,45,formaldehyde,4,10.3,13,body_length,mm,6.5,13.5,model1,2.718282,-8.03,3.55,1,NA,NA,mg,NA,6,0.88,NA,NA,NA,3
+Dasyomma,larva,46,formaldehyde,4,10.3,13,body_length,mm,3,14,model1,2.718282,-4.59,2.04,1,NA,NA,mg,NA,31,0.93,NA,NA,NA,3
+Edwardsina,larva,47,formaldehyde,4,10.3,13,body_length,mm,2,15.5,model1,2.718282,-5.01,2.85,1,NA,NA,mg,NA,31,0.98,NA,NA,NA,3
+Simulium,larva,48,formaldehyde,4,10.3,13,body_length,mm,2,7,model1,2.718282,-3.79,1.78,1,NA,NA,mg,NA,31,0.81,NA,NA,NA,3
+Hexatoma,larva,49,formaldehyde,4,10.3,13,body_length,mm,6.5,23,model1,2.718282,-7.74,3.29,1,NA,NA,mg,NA,18,0.84,NA,NA,NA,3
+Aeshna,nymph,50,formaldehyde,4,NA,NA,body_length,mm,3,22,model1,2.718282,-6.04,3.18,1,NA,NA,mg,NA,13,0.91,NA,NA,NA,3
+Aegla neuquensis,adult,51,formaldehyde,4,35.9,38_39,body_length,mm,6,22,model1,2.718282,-5.08,3.76,1,NA,NA,mg,NA,5,0.8,NA,NA,NA,3
+Hyalella curvispina,adult,52,formaldehyde,4,35.9,38_39,body_length,mm,2,8.5,model1,2.718282,-3.77,2.31,1,NA,NA,mg,NA,33,0.85,NA,NA,NA,3
+Lumbriculidae,none,53,formaldehyde,4,31.5,36_37,body_length,mm,11,40,model1,2.718282,-9.19,3.25,1,NA,NA,mg,NA,28,0.74,NA,NA,NA,3
+Chilina patagonica,none,54,formaldehyde,4,1,20,shell_height,mm,3,15,model1,2.718282,-2.49,2.75,1,NA,NA,mg,NA,16,0.97,NA,NA,NA,3
+Girardia,none,55,formaldehyde,4,NA,NA,body_length,mm,3.5,10,model1,2.718282,-4.01,1.91,1,NA,NA,mg,NA,28,0.86,NA,NA,NA,3
+Bithynia tentaculata,none,56,none,NA,NA,NA,shell_height,mm,1.9,10.03,model1,2.718282,-4.76,3.23,1,NA,NA,mg,NA,10,0.96,NA,NA,NA,4
+Lymnaea peregra,none,57,none,NA,NA,NA,shell_height,mm,2.48,15.33,model1,2.718282,-4.76,3.19,1,NA,NA,mg,NA,9,0.94,NA,NA,NA,4
+Lymnaea ovata,none,58,none,NA,NA,NA,shell_height,mm,2.48,15.33,model1,2.718282,-4.76,3.19,1,NA,NA,mg,NA,9,0.94,NA,NA,NA,4
+Dreissena polymorpha,none,59,none,NA,NA,NA,shell_width,mm,3.29,22.1,model1,2.718282,-3.44,2.3,1,NA,NA,mg,NA,163,0.81,NA,NA,NA,4
+Gammarus roeseli,adult,60,none,NA,NA,NA,body_length,mm,2.1,17.37,model1,2.718282,-4.85,2.56,1,NA,NA,mg,NA,101,0.95,NA,NA,NA,4
+Centroptilum luteolum,nymph,61,none,NA,NA,NA,body_length,mm,2.27,4.9,model1,2.718282,-4.02,2.93,1,NA,NA,mg,NA,18,0.95,NA,NA,NA,4
+Ecdyonurus dispar,nymph,62,none,NA,NA,NA,body_length,mm,3.33,13.84,model1,2.718282,-4.58,2.73,1,NA,NA,mg,NA,40,0.9,NA,NA,NA,4
+Caenis,nymph,63,none,NA,NA,NA,body_length,mm,1.15,6.3,model1,2.718282,-5.28,2.75,1,NA,NA,mg,NA,99,0.76,NA,NA,NA,4
+Leptophlebia vespertina,nymph,64,none,NA,NA,NA,body_length,mm,6.46,9.17,model1,2.718282,-7.54,4.03,1,NA,NA,mg,NA,6,0.85,NA,NA,NA,4
+Leuctra,nymph,65,none,NA,NA,NA,body_length,mm,2.9,4.28,model1,2.718282,-5.11,2.46,1,NA,NA,mg,NA,10,0.88,NA,NA,NA,4
+Polycentropus flavomaculatus,larva,66,none,NA,NA,NA,body_length,mm,2.24,14.62,model1,2.718282,-5.9,2.54,1,NA,NA,mg,NA,46,0.95,NA,NA,NA,4
+Ceraclea,larva,67,none,NA,NA,NA,body_length,mm,2.23,4.56,model1,2.718282,-6.66,4.63,1,NA,NA,mg,NA,6,0.95,NA,NA,NA,4
+Ceratopogonidae,larva,68,none,NA,NA,NA,body_length,mm,4.2,8.6,model1,2.718282,-4.13,1.12,1,NA,NA,mg,NA,4,0.99,NA,NA,NA,4
+Chironomidae,larva,69,formaldehyde,10,10.3,13,body_length,mm,1.3,16,model1,10,-2.676,2.473,1,NA,NA,mg,0.0671,508,0.84,,RMS_correction,bird_prairie_1985,5
+Macropelopiini,larva,70,formaldehyde,10,10.3,13,body_length,mm,1.3,9.5,model1,10,-2.512,2.459,1,NA,NA,mg,0.1246,99,0.72,,RMS_correction,bird_prairie_1985,5
+Metriocnemus,larva,71,formaldehyde,10,10.3,13,body_length,mm,1.7,5,model1,10,-2.669,2.34,1,NA,NA,mg,0.0247,111,0.6,,RMS_correction,bird_prairie_1985,5
+Cricotopus,larva,72,formaldehyde,10,10.3,13,body_length,mm,1.4,5,model1,10,-2.832,2.823,1,NA,NA,mg,0.0453,31,0.8,,RMS_correction,bird_prairie_1985,5
+Tanytarsus,larva,73,formaldehyde,10,10.3,13,body_length,mm,1.38,4.8,model1,10,-2.756,2.673,1,NA,NA,mg,0.0312,75,0.84,,RMS_correction,bird_prairie_1985,5
+Chironomus,larva,74,formaldehyde,10,10.3,13,body_length,mm,2.9,16,model1,10,-3.61,3.347,1,NA,NA,mg,0.033,88,0.91,,RMS_correction,bird_prairie_1985,5
+Paucispinigera,larva,75,formaldehyde,10,10.3,13,body_length,mm,1.58,6.7,model1,10,-2.619,2.425,1,NA,NA,mg,0.0139,56,0.94,,RMS_correction,bird_prairie_1985,5
+Xanthocnemis,nymph,76,formaldehyde,10,NA,NA,body_length,mm,1.87,14,model1,10,-1.842,2.296,1,NA,NA,mg,0.038,17,0.87,,RMS_correction,bird_prairie_1985,5
+Procordulia,nymph,77,formaldehyde,10,NA,NA,body_length,mm,4.55,20,model1,10,-2.218,3.157,1,NA,NA,mg,0.016,21,0.95,,RMS_correction,bird_prairie_1985,5
+Oecetis,larva,78,formaldehyde,10,NA,NA,body_length,mm,1.9,5.6,model1,10,-2.052,2.584,1,NA,NA,mg,0.022,73,0.68,,RMS_correction,bird_prairie_1985,5
+Triplectedes,larva,79,formaldehyde,10,NA,NA,body_length,mm,3.65,10,model1,10,-2.125,2.835,1,NA,NA,mg,0.0137,0,0.9,,RMS_correction,bird_prairie_1985,5
+Paroxyethira,larva,80,formaldehyde,10,NA,NA,body_length,mm,1.28,3.23,model1,10,-1.897,2.901,1,NA,NA,mg,0.0083,73,0.86,,RMS_correction,bird_prairie_1985,5
+Hyridella,none,81,formaldehyde,10,NA,NA,shell_width,mm,20.82,68.32,model1,10,-3.88,4.425,1,NA,NA,mg,0.0258,56,0.82,,RMS_correction,bird_prairie_1985,5
+Sphaerium,none,82,formaldehyde,10,NA,NA,shell_width,mm,1.27,5,model1,10,-1.854,3.572,1,NA,NA,mg,0.0681,87,0.71,,RMS_correction,bird_prairie_1985,5
+Potamopyrgus,none,83,formaldehyde,10,1,20,shell_height,mm,1.4,7.1,model1,10,-1.863,3.714,1,NA,NA,mg,0.0222,74,0.94,,RMS_correction,bird_prairie_1985,5
+Oligochaeta,none,84,formaldehyde,10,31.5,36_37,body_length,mm,1.7,22,model1,10,-2.618,1.875,1,NA,NA,mg,0.0681,90,0.72,,RMS_correction,bird_prairie_1985,5
+Oligochaeta,none,85,formaldehyde,5,31.5,36_37,body_length,mm,1,37,model1,2.718282,-4.8283137373023,1.888,1,0.01,5.98,mg,NA,30,0.9,,BC_correction,strimbu_2018,6
+Uracanthella punctisetae,nymph,86,formaldehyde,5,NA,NA,body_length,mm,2.3,5.5,model1,2.718282,-3.86323284125871,2.315,1,0.07,1.3,mg,NA,74,0.71,,BC_correction,strimbu_2018,6
+Micrasema quadriloba,larva,87,formaldehyde,5,NA,NA,body_length,mm,0.7,3.3,model1,2.718282,-3.9633162998157,2.631,1,0.01,0.6,mg,NA,71,0.76,,BC_correction,strimbu_2018,6
+Glossosoma altaicum,larva,88,formaldehyde,5,NA,NA,body_length,mm,2.1,6.8,model1,2.718282,-4.50986000618377,2.998,1,0.1,3.8,mg,NA,39,0.64,,BC_correction,strimbu_2018,6
+Glossosoma ussuricum,larva,89,formaldehyde,5,NA,NA,body_length,mm,2.3,6.9,model1,2.718282,-3.19418321227783,2.066,1,0.2,3.6,mg,NA,38,0.66,,BC_correction,strimbu_2018,6
+Goera japonica,larva,90,formaldehyde,5,NA,NA,body_length,mm,1.8,11.3,model1,2.718282,-3.68887945411394,2.575,1,0.1,13.8,mg,NA,54,0.89,,BC_correction,strimbu_2018,6
+Athericidae,larva,91,formaldehyde,5,10.3,13,body_length,mm,3.3,5.3,model1,2.718282,-4.96184512992682,2.648,1,0.15,0.55,mg,NA,30,0.76,,BC_correction,strimbu_2018,6
+Corisella,adult,92,ethanol,70,NA,NA,body_length,mm,4,6,model2,NA,0.0096,2.8658,1,0.15,2.62,mg,NA,25,0.7521,NA,NA,NA,7
+Corisella,nymph,93,ethanol,70,NA,NA,body_length,mm,1,5,model2,NA,0.0124,2.5137,1,0.06,0.596,mg,NA,31,0.907,NA,NA,NA,7
+Tricorythodes,nymph,94,ethanol,70,30,6,body_length,mm,1.2,5.4,model2,NA,0.0076,2.7993,1,0.01,1.23,mg,NA,70,0.9019,NA,NA,NA,7
+Oligochaeta,none,95,ethanol,95,31.5,36_37,body_length,mm,1.96,62.1,model1,10,-2.23,1.54,1,NA,NA,mg,NA,47,0.77,1.2,smearing_factor,duan_1983,8
+Ancylidae,none,96,ethanol,95,7,18,shell_height,mm,0.42,3.7,model1,10,-1.01,3.13,1,NA,NA,mg,NA,90,0.945,1.08,smearing_factor,duan_1983,8
+Bithyniidae,none,97,ethanol,95,7,18,shell_height,mm,1.8,7.8,model1,10,-0.57,2.5,1,NA,NA,mg,NA,77,0.912,1.02,smearing_factor,duan_1983,8
+Hydrobiidae,none,98,ethanol,95,7,18,shell_height,mm,0.8,4.6,model1,10,-0.74,2.82,1,NA,NA,mg,NA,153,0.957,1.04,smearing_factor,duan_1983,8
+Physidae,none,99,ethanol,95,7,18,shell_height,mm,1.98,10.3,model1,10,-1.34,3.05,1,NA,NA,mg,NA,50,0.977,1.02,smearing_factor,duan_1983,8
+Planorbidae,none,100,ethanol,95,7,18,shell_height,mm,0.7,17,model1,10,-1.12,2.9,1,NA,NA,mg,NA,93,0.969,1.04,smearing_factor,duan_1983,8
+Valvatidae,none,101,ethanol,95,7,18,shell_height,mm,1.52,3.7,model1,10,-0.93,3.18,1,NA,NA,mg,NA,59,0.921,1.02,smearing_factor,duan_1983,8
+Viviparidae,none,102,ethanol,95,7,18,shell_height,mm,2.08,15.2,model1,10,-0.64,2.6,1,NA,NA,mg,NA,59,0.932,1.07,smearing_factor,duan_1983,8
+Asellidae,adult,103,ethanol,95,19.5,8,body_length,mm,1.72,11.4,model1,10,-2.11,2.6,1,NA,NA,mg,NA,133,0.908,1.08,smearing_factor,duan_1983,8
+Gammaridae,adult,104,ethanol,95,20.1,2,body_length,mm,1.81,13,model1,10,-2.17,2.39,1,NA,NA,mg,NA,148,0.929,1.05,smearing_factor,duan_1983,8
+Caenidae,nymph,105,ethanol,95,30,6,body_length,mm,1.13,4.8,model1,10,-2.28,2.7,1,NA,NA,mg,NA,40,0.902,1.05,smearing_factor,duan_1983,8
+Coenagrionidae,nymph,106,ethanol,95,NA,NA,body_length,mm,1.5,13.3,model1,10,-2.31,2.53,1,NA,NA,mg,NA,23,0.935,1.06,smearing_factor,duan_1983,8
+Corixidae,adult,107,ethanol,95,NA,NA,body_length,mm,2.17,8.3,model1,10,-2.33,3.31,1,NA,NA,mg,NA,45,0.928,1.04,smearing_factor,duan_1983,8
+Leptoceridae,larva,108,ethanol,95,20.1,10,body_length,mm,1.68,9.2,model1,10,-2.14,2.34,1,NA,NA,mg,NA,30,0.673,1.25,smearing_factor,duan_1983,8
+Pyralidae,larva,109,ethanol,95,NA,NA,body_length,mm,1.67,15,model1,10,-1.7,1.95,1,NA,NA,mg,NA,25,0.859,1.14,smearing_factor,duan_1983,8
+Ceratopogonidae,larva,110,ethanol,95,21.6,4,body_length,mm,2.03,9.8,model1,10,-3.52,2.7,1,NA,NA,mg,NA,22,0.875,1.05,smearing_factor,duan_1983,8
+Chironomidae,larva,111,ethanol,95,20.4,5,body_length,mm,1.5,15.8,model1,10,-2.4,1.99,1,NA,NA,mg,NA,102,0.736,1.17,smearing_factor,duan_1983,8
+Tipulidae,larva,112,ethanol,95,25.5,4_5_11_12,body_length,mm,2.32,11.7,model1,10,-2.52,2.44,1,NA,NA,mg,NA,22,0.605,1.34,smearing_factor,duan_1983,8
+Unionidae,none,113,NA,NA,NA,NA,shell_width,mm,3.5,167,model1,2.718282,-11.5663262416973,2.82,1000,NA,NA,mg,NA,990,0.91,1.13,SEE_correction,sprugel_1983,9
+Amblema plicata,none,114,NA,NA,NA,NA,shell_width,mm,6.2,167,model1,2.718282,-11.3389721578468,2.79,1000,NA,NA,mg,NA,40,0.99,1.03,SEE_correction,sprugel_1983,9
+Anodontini,none,115,NA,NA,NA,NA,shell_width,mm,12.5,136.6,model1,2.718282,-11.9119116069807,2.83,1000,NA,NA,mg,NA,150,0.97,1.05,SEE_correction,sprugel_1983,9
+Alasmidonta varicosa,none,116,NA,NA,NA,NA,shell_width,mm,13.5,67.1,model1,2.718282,-11.9654821806122,2.91,1000,NA,NA,mg,NA,40,0.98,1.02,SEE_correction,sprugel_1983,9
+Anodonta implicata,none,117,NA,NA,NA,NA,shell_width,mm,12.5,121.4,model1,2.718282,-13.69329292524,3.2,1000,NA,NA,mg,NA,40,0.98,1.04,SEE_correction,sprugel_1983,9
+Pyganodon grandis,none,118,NA,NA,NA,NA,shell_width,mm,83.5,136.6,model1,2.718282,-14.683011125669,3.41,1000,NA,NA,mg,NA,35,0.92,1.01,SEE_correction,sprugel_1983,9
+Strophitus undulatus,none,119,NA,NA,NA,NA,shell_width,mm,24.7,79.4,model1,2.718282,-11.0061078626018,2.65,1000,NA,NA,mg,NA,35,0.97,1.01,SEE_correction,sprugel_1983,9
+Lampsilini,none,120,NA,NA,NA,NA,shell_width,mm,3.5,129,model1,2.718282,-11.919391073412,2.92,1000,NA,NA,mg,NA,410,0.91,1.13,SEE_correction,sprugel_1983,9
+Lampsilis ornata,none,121,NA,NA,NA,NA,shell_width,mm,34.4,107.5,model1,2.718282,-15.1137940417615,3.67,1000,NA,NA,mg,NA,40,0.95,1.04,SEE_correction,sprugel_1983,9
+Lampsilis straminea,none,122,NA,NA,NA,NA,shell_width,mm,27.4,89,model1,2.718282,-14.092582451304,3.49,1000,NA,NA,mg,NA,35,0.96,1.04,SEE_correction,sprugel_1983,9
+Lampsilis teres,none,123,NA,NA,NA,NA,shell_width,mm,19.8,108.6,model1,2.718282,-13.9851133423505,3.34,1000,NA,NA,mg,NA,25,0.98,1.03,SEE_correction,sprugel_1983,9
+Leptodea ochracea,none,124,NA,NA,NA,NA,shell_width,mm,9,72.9,model1,2.718282,-12.9400418206104,3.15,1000,NA,NA,mg,NA,35,0.97,1.05,SEE_correction,sprugel_1983,9
+Obliquaria reflexa,none,125,NA,NA,NA,NA,shell_width,mm,12,65.7,model1,2.718282,-13.2501967489142,3.33,1000,NA,NA,mg,NA,30,0.96,1.04,SEE_correction,sprugel_1983,9
+Obovaria unicolor,none,126,NA,NA,NA,NA,shell_width,mm,11.8,49.3,model1,2.718282,-13.3580857109254,3.45,1000,NA,NA,mg,NA,35,0.97,1.03,SEE_correction,sprugel_1983,9
+Ptychobranchus fasciolaris,none,127,NA,NA,NA,NA,shell_width,mm,49.4,97.8,model1,2.718282,-15.575771360133,3.69,1000,NA,NA,mg,NA,40,0.9,1.03,SEE_correction,sprugel_1983,9
+Ptychobranchus occidentalis,none,128,NA,NA,NA,NA,shell_width,mm,67.8,104.5,model1,2.718282,-11.0555006179314,2.65,1000,NA,NA,mg,NA,40,0.78,1.02,SEE_correction,sprugel_1983,9
+Villosa nebulosa,none,129,NA,NA,NA,NA,shell_width,mm,8.5,45,model1,2.718282,-11.87246164119,2.87,1000,NA,NA,mg,NA,30,0.94,1.03,SEE_correction,sprugel_1983,9
+Pleurobemini,none,130,NA,NA,NA,NA,shell_width,mm,4.2,103.6,model1,2.718282,-11.8927228263298,2.87,1000,NA,NA,mg,NA,230,0.9,1.13,SEE_correction,sprugel_1983,9
+Elliptio arca,none,131,NA,NA,NA,NA,shell_width,mm,8.3,89.3,model1,2.718282,-12.822258784954,2.98,1000,NA,NA,mg,NA,30,0.98,1.04,SEE_correction,sprugel_1983,9
+Elliptio complanata,none,132,NA,NA,NA,NA,shell_width,mm,4.2,100,model1,2.718282,-12.4020875294561,2.93,1000,NA,NA,mg,NA,40,0.98,1.06,SEE_correction,sprugel_1983,9
+Elliptio dilatata,none,133,NA,NA,NA,NA,shell_width,mm,46.5,103.6,model1,2.718282,-14.6073737114634,3.45,1000,NA,NA,mg,NA,40,0.88,1.05,SEE_correction,sprugel_1983,9
+Fusconaia cerina,none,134,NA,NA,NA,NA,shell_width,mm,23.7,70,model1,2.718282,-11.676621557641,2.92,1000,NA,NA,mg,NA,40,0.97,1.02,SEE_correction,sprugel_1983,9
+Pleurobema decisum,none,135,NA,NA,NA,NA,shell_width,mm,15.6,67,model1,2.718282,-10.4345158836196,2.44,1000,NA,NA,mg,NA,40,0.96,1.02,SEE_correction,sprugel_1983,9
+Quadrulini,none,136,NA,NA,NA,NA,shell_width,mm,5.2,119.6,model1,2.718282,-10.1392098860572,2.54,1000,NA,NA,mg,NA,160,0.92,1.07,SEE_correction,sprugel_1983,9
+Cyclonaias asperata,none,137,NA,NA,NA,NA,shell_width,mm,24.3,59.4,model1,2.718282,-11.176453228349,2.86,1000,NA,NA,mg,NA,40,0.92,1.02,SEE_correction,sprugel_1983,9
+Cyclonaias pustulosa,none,138,NA,NA,NA,NA,shell_width,mm,5.2,68.8,model1,2.718282,-12.1687768607865,3.18,1000,NA,NA,mg,NA,40,0.99,1.02,SEE_correction,sprugel_1983,9
+Quadrula rumphiana,none,139,NA,NA,NA,NA,shell_width,mm,33.9,77.8,model1,2.718282,-10.5574140199428,2.67,1000,NA,NA,mg,NA,40,0.89,1.02,SEE_correction,sprugel_1983,9
+Tritogonia verrucosa,none,140,NA,NA,NA,NA,shell_width,mm,52.5,119.6,model1,2.718282,-12.5098840999118,2.98,1000,NA,NA,mg,NA,40,0.85,1.02,SEE_correction,sprugel_1983,9
+Cypridoidea,adult,141,none,NA,NA,NA,body_length,mm,2.2,4.9,model1,10,-0.55,1.087,1,NA,NA,mg,0.003,156,0.76,,RMS_correction,bird_prairie_1985,10
+Cypridoidea,adult,142,none,NA,NA,NA,body_length,mm,2.6,4.8,model1,10,-2.156,3.447,1,NA,NA,mg,0.01,753,0.82,,RMS_correction,bird_prairie_1985,10
+Hyalella azteca,adult,143,none,NA,NA,NA,body_length,mm,1.2,4.5,model1,10,-1.486,2.675,1,NA,NA,mg,0.027,895,0.64,,RMS_correction,bird_prairie_1985,10
+Sphaerium,none,144,none,NA,NA,NA,shell_width,mm,1.2,7.3,model1,10,-1.339,3.394,1,NA,NA,mg,0.024,334,0.92,,RMS_correction,bird_prairie_1985,10
+Physa,none,145,none,NA,NA,NA,shell_height,mm,1.1,15.7,model1,10,-1.33,2.765,1,NA,NA,mg,0.024,933,0.93,,RMS_correction,bird_prairie_1985,10
+Ferrissia,none,146,none,NA,NA,NA,shell_height,mm,2,8.4,model1,10,-1.242,2.198,1,NA,NA,mg,0.017,696,0.72,,RMS_correction,bird_prairie_1985,10
+Thiara granifera,none,147,none,NA,NA,NA,shell_height,mm,3,26.2,model1,10,-1.205,2.712,1,NA,NA,mg,0.016,32,0.98,,RMS_correction,bird_prairie_1985,10
+Pomacea,none,148,none,NA,NA,NA,shell_height,mm,1.6,13.6,model1,10,-1.205,2.445,1,NA,NA,mg,0.037,88,0.88,,RMS_correction,bird_prairie_1985,10
+Helobdella,none,149,none,NA,NA,NA,body_length,mm,8.1,16.4,model1,10,-1.379,1.504,1,NA,NA,mg,0.012,8,0.78,,RMS_correction,bird_prairie_1985,10
+Helobdella,none,150,none,NA,NA,NA,body_length,mm,8,32.9,model1,10,-3.332,3.058,1,NA,NA,mg,0.013,34,0.97,,RMS_correction,bird_prairie_1985,10
+Helobdella,none,151,none,NA,NA,NA,body_length,mm,6.8,32.9,model1,10,-3.055,2.853,1,NA,NA,mg,0.03,39,0.92,,RMS_correction,bird_prairie_1985,10
+Paraponyx,larva,152,none,NA,NA,NA,body_length,mm,5.9,14.3,model1,10,-0.91,0.256,1,NA,NA,mg,0.147,21,0.75,,RMS_correction,bird_prairie_1985,10
+Aeshnidae,nymph,153,none,NA,NA,NA,body_length,mm,2.9,51,model1,10,-2.15,2.611,1,NA,NA,mg,0.024,379,0.95,,RMS_correction,bird_prairie_1985,10
+Anax junius,nymph,154,none,NA,NA,NA,body_length,mm,2.9,49.5,model1,10,-2.129,2.589,1,NA,NA,mg,0.024,342,0.95,,RMS_correction,bird_prairie_1985,10
+Tricanthagyna septima,nymph,155,none,NA,NA,NA,body_length,mm,10.9,38.2,model1,10,-2.898,3.089,1,NA,NA,mg,0.013,13,0.95,,RMS_correction,bird_prairie_1985,10
+Coryphaeschna adnexa,nymph,156,none,NA,NA,NA,body_length,mm,7.3,29,model1,10,-2.688,3.154,1,NA,NA,mg,0.006,14,0.98,,RMS_correction,bird_prairie_1985,10
+Gynacantha nervosa,nymph,157,none,NA,NA,NA,body_length,mm,12.2,51,model1,10,-2.432,2.848,1,NA,NA,mg,0.02,9,0.94,,RMS_correction,bird_prairie_1985,10
+Libellulidae,nymph,158,none,NA,NA,NA,body_length,mm,3,27.1,model1,10,-2.075,2.751,1,NA,NA,mg,0.025,753,0.92,,RMS_correction,bird_prairie_1985,10
+Micrathyria aequalis,nymph,159,none,NA,NA,NA,body_length,mm,3,17.8,model1,10,-2.025,2.648,1,NA,NA,mg,0.02,276,0.91,,RMS_correction,bird_prairie_1985,10
+Erythrodiplax justiniana,nymph,160,none,NA,NA,NA,body_length,mm,3.7,15.4,model1,10,-1.857,2.678,1,NA,NA,mg,0.035,56,0.78,,RMS_correction,bird_prairie_1985,10
+Erythrodiplax,nymph,161,none,NA,NA,NA,body_length,mm,3,17.3,model1,10,-1.994,2.679,1,NA,NA,mg,0.022,222,0.92,,RMS_correction,bird_prairie_1985,10
+Tramea,nymph,162,none,NA,NA,NA,body_length,mm,5.9,27.1,model1,10,-2.317,2.973,1,NA,NA,mg,0.019,30,0.94,,RMS_correction,bird_prairie_1985,10
+Coenagrionidae,nymph,163,none,NA,NA,NA,body_length,mm,3.8,18.4,model1,10,-2.59,2.778,1,NA,NA,mg,0.022,1311,0.86,,RMS_correction,bird_prairie_1985,10
+Enallagma,nymph,164,none,NA,NA,NA,body_length,mm,3.8,17.1,model1,10,-2.487,2.658,1,NA,NA,mg,0.02,1075,0.83,,RMS_correction,bird_prairie_1985,10
+Lestes,nymph,165,none,NA,NA,NA,body_length,mm,6.9,22.8,model1,10,-3.825,3.543,1,NA,NA,mg,0.021,159,0.92,,RMS_correction,bird_prairie_1985,10
+Callibaetis,nymph,166,none,NA,NA,NA,body_length,mm,3.4,9.6,model1,10,-3.089,3.607,1,NA,NA,mg,0.019,2931,0.77,,RMS_correction,bird_prairie_1985,10
+Cybister,larva,167,none,NA,NA,NA,body_length,mm,5.6,40.2,model1,10,-2.914,2.679,1,NA,NA,mg,0.041,17,0.94,,RMS_correction,bird_prairie_1985,10
+Cybister,larva,168,none,NA,NA,NA,body_length,mm,14.6,39.7,model1,10,-4.569,3.813,1,NA,NA,mg,0.027,65,0.87,,RMS_correction,bird_prairie_1985,10
+Laccophilus,adult,169,none,NA,NA,NA,body_length,mm,1.4,5.2,model1,10,-1.235,2.461,1,NA,NA,mg,0.011,137,0.91,,RMS_correction,bird_prairie_1985,10
+Tropisternus,larva,170,none,NA,NA,NA,body_length,mm,5,14.8,model1,10,-2.643,2.989,1,NA,NA,mg,0.043,28,0.74,,RMS_correction,bird_prairie_1985,10
+Haliplus,larva,171,none,NA,NA,NA,body_length,mm,7.4,11.5,model1,10,-2.259,2.364,1,NA,NA,mg,0.005,11,0.83,,RMS_correction,bird_prairie_1985,10
+Helichus,adult,172,none,NA,NA,NA,body_length,mm,5,7.1,model1,10,-3.165,4.752,1,NA,NA,mg,0.02,8,0.77,,RMS_correction,bird_prairie_1985,10
+Gyrinus,adult,173,none,NA,NA,NA,body_length,mm,4.6,6.3,model1,10,-2.543,4.175,1,NA,NA,mg,0.009,63,0.65,,RMS_correction,bird_prairie_1985,10
+Belostomatidae,adult,174,none,NA,NA,NA,body_length,mm,5.3,72.6,model1,10,-2.027,2.82,1,NA,NA,mg,0.022,235,0.94,,RMS_correction,bird_prairie_1985,10
+Belostoma,adult,175,none,NA,NA,NA,body_length,mm,5.3,32,model1,10,-2.044,2.843,1,NA,NA,mg,0.02,207,0.95,,RMS_correction,bird_prairie_1985,10
+Lethocerus,adult,176,none,NA,NA,NA,body_length,mm,5.5,72.6,model1,10,-1.907,2.634,1,NA,NA,mg,0.039,28,0.92,,RMS_correction,bird_prairie_1985,10
+Ranatra,adult,177,none,NA,NA,NA,body_length,mm,6.4,79.2,model1,10,-2.031,1.965,1,NA,NA,mg,0.026,55,0.96,,RMS_correction,bird_prairie_1985,10
+Notonectidae,adult,178,none,NA,NA,NA,body_length,mm,1.8,10.5,model1,10,-2.084,3.243,1,NA,NA,mg,0.028,786,0.9,,RMS_correction,bird_prairie_1985,10
+Buenoa,adult,179,none,NA,NA,NA,body_length,mm,1.8,9.2,model1,10,-2.087,3.237,1,NA,NA,mg,0.027,743,0.9,,RMS_correction,bird_prairie_1985,10
+Notonecta,adult,180,none,NA,NA,NA,body_length,mm,3,10.5,model1,10,-1.615,2.773,1,NA,NA,mg,0.015,43,0.92,,RMS_correction,bird_prairie_1985,10
+Callicorixia,adult,181,none,NA,NA,NA,body_length,mm,2.4,8.4,model1,10,-2.013,3.111,1,NA,NA,mg,0.031,55,0.93,,RMS_correction,bird_prairie_1985,10
+Hydrometra,adult,182,none,NA,NA,NA,body_length,mm,10.1,18,model1,10,-3.355,3.155,1,NA,NA,mg,0.021,14,0.79,,RMS_correction,bird_prairie_1985,10
+Ambrysus,adult,183,none,NA,NA,NA,body_length,mm,2.2,10,model1,10,-1.967,3.235,1,NA,NA,mg,0.025,33,0.94,,RMS_correction,bird_prairie_1985,10
+Gerris,adult,184,none,NA,NA,NA,body_length,mm,2.1,9.8,model1,10,-1.49,2.253,1,NA,NA,mg,0.03,121,0.86,,RMS_correction,bird_prairie_1985,10
+Stratiomyidae,larva,185,none,NA,NA,NA,body_length,mm,3,18.7,model1,10,-1.91,2.454,1,NA,NA,mg,0.025,243,0.85,,RMS_correction,bird_prairie_1985,10
+Odontomiya,larva,186,none,NA,NA,NA,body_length,mm,5.2,18.7,model1,10,-2.148,2.625,1,NA,NA,mg,0.021,71,0.87,,RMS_correction,bird_prairie_1985,10
+Caloparyphus,larva,187,none,NA,NA,NA,body_length,mm,4.3,8.7,model1,10,-2.441,3.111,1,NA,NA,mg,0.024,65,0.76,,RMS_correction,bird_prairie_1985,10
+Aedes,larva,188,none,NA,NA,NA,body_length,mm,5.2,8.8,model1,10,-3.34,3.505,1,NA,NA,mg,0.027,67,0.603,,RMS_correction,bird_prairie_1985,10
+Atalophlebia,nymph,189,formaldehyde,5,NA,NA,body_length,mm,1.25,12.75,model2,NA,0.021,2.116,1,NA,NA,mg,NA,33,0.74,,NA,NA,11
+Irpacaenis,nymph,190,formaldehyde,5,NA,NA,body_length,mm,1.25,5.75,model2,NA,0.0008,3.882,1,NA,NA,mg,NA,26,0.95,,NA,NA,11
+Baetidae,nymph,191,formaldehyde,5,NA,NA,body_length,mm,1.25,9.5,model2,NA,0.0128,2.075,1,NA,NA,mg,NA,104,0.69,,NA,NA,11
+Offadens,nymph,192,formaldehyde,5,NA,NA,body_length,mm,1.25,9.5,model2,NA,0.0069,2.378,1,NA,NA,mg,NA,45,0.84,,NA,NA,11
+Odonata,nymph,193,formaldehyde,5,NA,NA,body_length,mm,2.25,19.75,model2,NA,0.014,2.755,1,NA,NA,mg,NA,143,0.94,,NA,NA,11
+Gomphidae,nymph,194,formaldehyde,5,NA,NA,body_length,mm,2.25,15.25,model2,NA,0.0025,3.474,1,NA,NA,mg,NA,28,0.95,,NA,NA,11
+Austrogomphus,nymph,195,formaldehyde,5,NA,NA,body_length,mm,2.25,14.25,model2,NA,0.0002,4.604,1,NA,NA,mg,NA,10,0.99,,NA,NA,11
+Hemigomphus,nymph,196,formaldehyde,5,NA,NA,body_length,mm,2.75,15.25,model2,NA,0.0032,3.37,1,NA,NA,mg,NA,18,0.96,,NA,NA,11
+Procordulia,nymph,197,formaldehyde,5,NA,NA,body_length,mm,2.25,9.75,model2,NA,0.021,2.682,1,NA,NA,mg,NA,78,0.89,,NA,NA,11
+Hemicordulia,nymph,198,formaldehyde,5,NA,NA,body_length,mm,2.25,9.75,model2,NA,0.021,2.682,1,NA,NA,mg,NA,78,0.89,,NA,NA,11
+Libellulidae,nymph,199,formaldehyde,5,NA,NA,body_length,mm,2.75,19.75,model2,NA,0.0081,2.94,1,NA,NA,mg,NA,37,0.95,,NA,NA,11
+Urothemis aliena,nymph,200,formaldehyde,5,NA,NA,body_length,mm,2.75,19.75,model2,NA,0.0062,3.033,1,NA,NA,mg,NA,28,0.95,,NA,NA,11
+Hydrobasileus brevistylus,nymph,201,formaldehyde,5,NA,NA,body_length,mm,2.75,11.75,model2,NA,0.044,2.298,1,NA,NA,mg,NA,9,0.97,,NA,NA,11
+Chironomidae,larva,202,formaldehyde,5,20.4,5,body_length,mm,2.25,8.75,model2,NA,0.0017,2.503,1,NA,NA,mg,NA,38,0.8,,NA,NA,11
+Chironominae,larva,203,formaldehyde,5,20.4,5,body_length,mm,2.25,8.75,model2,NA,0.002,2.472,1,NA,NA,mg,NA,19,0.82,,NA,NA,11
+Orthocladiinae,larva,204,formaldehyde,5,NA,NA,body_length,mm,2.25,8.25,model2,NA,0.0008,2.824,1,NA,NA,mg,NA,8,0.96,,NA,NA,11
+Tanytarsus,larva,205,ethanol,70,26.8,5_11_12,body_length,mm,1.1,5,model1,2.718282,-6.9622,2.5433,1,NA,NA,mg,NA,40,0.98,,NA,NA,12
+Cladotanytarsus,larva,206,ethanol,70,26.8,5_11_12,body_length,mm,0.9,5.6,model1,2.718282,-6.3641,2.1486,1,NA,NA,mg,NA,46,0.85,,NA,NA,12
+Stempellina,larva,207,ethanol,70,27.8,5_11_13,body_length,mm,0.7,2.5,model1,2.718282,-6.3503,1.9174,1,NA,NA,mg,NA,19,0.95,,NA,NA,12
+Chironomus,larva,208,ethanol,70,28.8,5_11_14,body_length,mm,2.5,15,model1,2.718282,-7.9959,3.0165,1,NA,NA,mg,NA,24,0.85,,NA,NA,12
+Triops cancriformes,adult,209,formaldehyde,4,35.9,38_39,body_length,mm,4,35,model2,NA,0.0034,2.9678,1,NA,NA,mg,NA,170,0.98,,NA,NA,13
+Hypogastrura manubrialis,adult,210,none,NA,NA,NA,body_length,mm,0.558,1.22,model1,2.718282,2.16,2.5,0.001,0.00188,0.166,mg,NA,7,0.911,1.03,smearing_factor,duan_1983,14
+Neanura,adult,211,none,NA,NA,NA,body_length,mm,0.412,0.958,model1,2.718282,2.36,2.27,0.001,0.0014,0.0111,mg,NA,10,0.883,1.02,smearing_factor,duan_1983,14
+Onychiurus,adult,212,none,NA,NA,NA,body_length,mm,1,5.27,model1,2.718282,0.462,1.17,0.001,0.00164,0.0142,mg,NA,17,0.94,1.01,smearing_factor,duan_1983,14
+Folsomia candida,adult,213,none,NA,NA,NA,body_length,mm,0.612,2.11,model1,2.718282,1.9,2.96,0.001,0.0018,0.0509,mg,NA,9,0.96,1.03,smearing_factor,duan_1983,14
+Folsomia hasegawai,adult,214,none,NA,NA,NA,body_length,mm,0.594,1.14,model1,2.718282,1.25,1.46,0.001,0.0016,0.0047,mg,NA,11,0.798,1.01,smearing_factor,duan_1983,14
+Onychiurus armatus,adult,215,none,NA,NA,NA,body_length,mm,0.511,1.87,model1,2.718282,1.82,2.67,0.001,0.00114,0.0337,mg,NA,43,0.97,1.02,smearing_factor,duan_1983,15
+Onychiurus furcifer,adult,216,none,NA,NA,NA,body_length,mm,0.481,1.68,model1,2.718282,1.9,2.77,0.001,0.000783,0.0404,mg,NA,68,0.969,1.02,smearing_factor,duan_1983,15
+Tullbergia krausbaueri,adult,217,none,NA,NA,NA,body_length,mm,0.319,0.518,model1,2.718282,1.21,2.57,0.001,0.000188,0.000677,mg,NA,38,0.94,1,smearing_factor,duan_1983,15
+Folsomia quadrioculata,adult,218,none,NA,NA,NA,body_length,mm,0.482,0.893,model1,2.718282,1.84,2.87,0.001,0.000706,0.00539,mg,NA,54,0.841,1.02,smearing_factor,duan_1983,15
+Isotoma notabilis,adult,219,none,NA,NA,NA,body_length,mm,0.578,1,model1,2.718282,2.12,3.07,0.001,0.00119,0.0103,mg,NA,53,0.678,1.04,smearing_factor,duan_1983,15
+Tomocerus flavescens,adult,220,none,NA,NA,NA,body_length,mm,0.543,5.13,model1,2.718282,2.22,2.75,0.001,0.00201,0.466,mg,NA,48,0.984,1.03,smearing_factor,duan_1983,15
+Bosmina hagmanni,adult,221,formaldehyde,4,35.9,38_39,body_length,mm,0.257,0.438,model1,2.718282,2.33997721221111,2.61,0.001,0.000301,0.001254,mg,NA,7,0.98,,BC_correction,strimbu_2018,16
+Ceriodaphnia cornuta,adult,222,formaldehyde,4,35.9,38_39,body_length,mm,0.268,0.435,model1,2.718282,1.36991088186937,2,0.001,0.000272,0.000715,mg,NA,5,0.98,,BC_correction,strimbu_2018,16
+Daphnia gessneri,adult,223,formaldehyde,4,35.9,38_39,body_length,mm,0.579,1.058,model1,2.718282,0.719789111506366,3.22,0.001,0.000367,0.002488,mg,NA,6,0.99,,BC_correction,strimbu_2018,16
+Diaphanosoma spinulosum,adult,224,formaldehyde,4,35.9,38_39,body_length,mm,0.411,0.767,model1,2.718282,1.1400740784757,2.22,0.001,0.000412,0.001738,mg,NA,6,0.99,,BC_correction,strimbu_2018,16
+Macrothrix squamosa,adult,225,formaldehyde,4,35.9,38_39,body_length,mm,0.223,0.386,model1,2.718282,2.85001261920458,3.177,0.001,0.000191,0.000889,mg,NA,5,0.86,,BC_correction,strimbu_2018,16
+Moina minuta,adult,226,formaldehyde,4,35.9,38_39,body_length,mm,0.338,0.526,model1,2.718282,0.85015092936961,2.45,0.001,0.000158,0.000504,mg,NA,5,0.97,,BC_correction,strimbu_2018,16
+Notodiaptomus amazonicus,adult,227,formaldehyde,4,35.9,38_39,body_length,mm,0.848,1.18,model1,2.718282,2.29000631078719,2.16,0.001,0.00692,0.01208,mg,NA,8,0.99,,BC_correction,strimbu_2018,16
+Thermocyclops decipiens,adult,228,formaldehyde,4,35.9,38_39,body_length,mm,0.529,0.803,model1,2.718282,1.57007318891182,3.244,0.001,0.00061,0.00263,mg,NA,6,0.96,,BC_correction,strimbu_2018,16
+Thermocyclops minutus,adult,229,formaldehyde,4,35.9,38_39,body_length,mm,0.404,0.565,model1,2.718282,1.33998860824338,2.77,0.001,0.00028,0.00081,mg,NA,5,0.89,,BC_correction,strimbu_2018,16
+Calanoida ,copepodite,230,formaldehyde,4,35.9,38_39,body_length,mm,0.35,0.74,model1,2.718282,2.46996220240218,3.15,0.001,0.00043,0.00406,mg,NA,7,0.97,,BC_correction,strimbu_2018,16
+Dugesia tigrina,none,231,none,NA,NA,NA,body_length,mm,2,5.2,model2,NA,0.0089,2.145,1,NA,NA,mg,NA,42,0.81,,NA,NA,17
+Caecidotea racovitzai,none,232,none,none,NA,NA,body_length,mm,1.8,10.4,model2,NA,0.0036,3.111,1,NA,NA,mg,NA,29,0.86,,NA,NA,17
+Lirceus lineatus,adult,233,none,none,NA,NA,body_length,mm,1.4,11,model2,NA,0.0072,2.785,1,NA,NA,mg,NA,125,0.98,,NA,NA,17
+Crangonyx gracilus,adult,234,none,none,NA,NA,body_length,mm,2,9,model2,NA,0.0058,2.798,1,NA,NA,mg,NA,25,0.85,,NA,NA,17
+Crangonyx richmondensis ,adult,235,none,none,NA,NA,body_length,mm,2,13,model2,NA,0.002,3.211,1,NA,NA,mg,NA,30,0.9,,NA,NA,17
+Baetis,nymph,236,formaldehyde,10,NA,NA,body_length,mm,2.1,6.2,model2,NA,0.0068,2.72,1,NA,NA,mg,NA,49,0.96,,NA,NA,17
+Baetis,nymph,237,none,none,NA,NA,body_length,mm,1.8,8.5,model2,NA,0.0033,3.196,1,NA,NA,mg,NA,36,0.81,,NA,NA,17
+Baetis,nymph,238,none,none,NA,NA,body_length,mm,1.5,6.6,model2,NA,0.0094,2.938,1,NA,NA,mg,NA,52,0.87,,NA,NA,17
+Callibaetis,nymph,239,none,none,NA,NA,body_length,mm,4.3,8.2,model2,NA,0.00081,3.547,1,NA,NA,mg,NA,21,0.8,,NA,NA,17
+Heterocloeon,nymph,240,none,none,NA,NA,body_length,mm,1.9,7.5,model2,NA,0.0052,2.721,1,NA,NA,mg,NA,36,0.71,,NA,NA,17
+Pseudocloeon,nymph,241,none,none,NA,NA,body_length,mm,1.6,5.4,model2,NA,0.0023,3.264,1,NA,NA,mg,NA,22,0.62,,NA,NA,17
+Baetisca,nymph,242,none,none,NA,NA,body_length,mm,1.9,9.8,model2,NA,0.0116,2.905,1,NA,NA,mg,NA,51,0.78,,NA,NA,17
+Caenis diminuta,nymph,243,none,none,NA,NA,body_length,mm,1.6,4.4,model2,NA,0.0058,2.712,1,NA,NA,mg,NA,25,0.94,,NA,NA,17
+Caenis,nymph,244,none,none,NA,NA,body_length,mm,1.7,6.4,model2,NA,0.0054,2.842,1,NA,NA,mg,NA,35,0.85,,NA,NA,17
+Caenis,nymph,245,none,none,NA,NA,body_length,mm,1.4,4.4,model2,NA,0.0033,2.924,1,NA,NA,mg,NA,18,0.9,,NA,NA,17
+Drunella,nymph,246,none,none,NA,NA,body_length,mm,2.4,9.8,model2,NA,0.0257,2.252,1,NA,NA,mg,NA,28,0.62,,NA,NA,17
+Ephemerella,nymph,247,none,none,NA,NA,body_length,mm,2.7,8.8,model2,NA,0.0097,2.663,1,NA,NA,mg,NA,84,0.89,,NA,NA,17
+Ephemerella,nymph,248,none,none,NA,NA,body_length,mm,2.1,7.7,model2,NA,0.0128,2.444,1,NA,NA,mg,NA,46,0.81,,NA,NA,17
+Eurylophella temporalis,nymph,249,none,none,NA,NA,body_length,mm,1.7,6.1,model2,NA,0.008,2.663,1,NA,NA,mg,NA,74,0.94,,NA,NA,17
+Serratella,nymph,250,none,none,NA,NA,body_length,mm,2.3,8,model2,NA,0.0088,2.584,1,NA,NA,mg,NA,24,0.76,,NA,NA,17
+Hexagenia munda,nymph,251,none,none,NA,NA,body_length,mm,3.3,24.6,model2,NA,0.0062,2.891,1,NA,NA,mg,NA,21,0.79,,NA,NA,17
+Heptagenia,nymph,252,none,none,NA,NA,body_length,mm,1.3,9.7,model2,NA,0.018,2.326,1,NA,NA,mg,NA,90,0.72,,NA,NA,17
+Heptagenia,nymph,253,none,none,NA,NA,body_length,mm,2.8,9.8,model2,NA,0.0087,2.731,1,NA,NA,mg,NA,11,0.95,,NA,NA,17
+Stenacron interpunctatum,nymph,254,none,none,NA,NA,body_length,mm,1,10.9,model2,NA,0.0067,2.807,1,NA,NA,mg,NA,45,0.88,,NA,NA,17
+Stenonema modestum,nymph,255,none,none,NA,NA,body_length,mm,0.8,12.1,model2,NA,0.0078,2.871,1,NA,NA,mg,NA,128,0.88,,NA,NA,17
+Stenonema modestum,nymph,256,none,none,NA,NA,body_length,mm,1,10.7,model2,NA,0.0101,2.636,1,NA,NA,mg,NA,52,0.81,,NA,NA,17
+Stenonema,nymph,257,none,none,NA,NA,body_length,mm,2,12.7,model2,NA,0.0128,2.616,1,NA,NA,mg,NA,59,0.84,,NA,NA,17
+Isonychia,nymph,258,none,none,NA,NA,body_length,mm,2.2,13.2,model2,NA,0.0031,3.167,1,NA,NA,mg,NA,107,0.88,,NA,NA,17
+Isonychia,nymph,259,none,none,NA,NA,body_length,mm,2.6,12.9,model2,NA,0.0031,2.918,1,NA,NA,mg,NA,123,0.97,,NA,NA,17
+Leptophlebia,nymph,260,none,none,NA,NA,body_length,mm,1.2,8.4,model2,NA,0.0054,2.836,1,NA,NA,mg,NA,25,0.78,,NA,NA,17
+Paraleptophlebia,nymph,261,none,none,NA,NA,body_length,mm,1,7.8,model2,NA,0.0061,2.624,1,NA,NA,mg,NA,55,0.88,,NA,NA,17
+Tricorythodes,nymph,262,none,none,NA,NA,body_length,mm,1.7,7.1,model2,NA,0.0029,3.165,1,NA,NA,mg,NA,19,0.77,,NA,NA,17
+Calopteryx,nymph,263,none,none,NA,NA,body_length,mm,2,16.1,model2,NA,0.005,2.742,1,NA,NA,mg,NA,25,0.87,,NA,NA,17
+Argia,nymph,264,none,none,NA,NA,body_length,mm,4.1,15.2,model2,NA,0.0086,2.666,1,NA,NA,mg,NA,23,0.83,,NA,NA,17
+Ischnura,nymph,265,none,none,NA,NA,body_length,mm,2.9,13.3,model2,NA,0.0015,2.904,1,NA,NA,mg,NA,13,0.96,,NA,NA,17
+Boyeria vinosa,nymph,266,none,none,NA,NA,body_length,mm,3.3,35.4,model2,NA,0.0082,2.813,1,NA,NA,mg,NA,11,0.94,,NA,NA,17
+Cordulegaster maculata,nymph,267,none,none,NA,NA,body_length,mm,3.2,38.1,model2,NA,0.0067,2.782,1,NA,NA,mg,NA,18,0.81,,NA,NA,17
+Epitheca cynosura,nymph,268,none,none,NA,NA,body_length,mm,2.5,19.7,model2,NA,0.009,2.757,1,NA,NA,mg,NA,48,0.94,,NA,NA,17
+Epitheca semiaquae,nymph,269,none,none,NA,NA,body_length,mm,4.2,29.3,model2,NA,0.0074,2.72,1,NA,NA,mg,NA,17,0.76,,NA,NA,17
+Neurocordulia molesta,nymph,270,none,none,NA,NA,body_length,mm,3,19,model2,NA,0.0124,2.884,1,NA,NA,mg,NA,54,0.89,,NA,NA,17
+Dromogomphus,nymph,271,none,none,NA,NA,body_length,mm,8.5,19,model2,NA,0.018,2.239,1,NA,NA,mg,NA,12,0.83,,NA,NA,17
+Gomphus,nymph,272,none,none,NA,NA,body_length,mm,4.8,26.6,model2,NA,0.0044,3.124,1,NA,NA,mg,NA,9,0.85,,NA,NA,17
+Gomphus,nymph,273,none,none,NA,NA,body_length,mm,3,37.1,model2,NA,0.006,2.847,1,NA,NA,mg,NA,24,0.9,,NA,NA,17
+Progomphus obscurus,nymph,274,none,none,NA,NA,body_length,mm,3.9,23,model2,NA,0.0057,2.831,1,NA,NA,mg,NA,28,0.74,,NA,NA,17
+Celithemis fasciata,nymph,275,none,none,NA,NA,body_length,mm,2.1,16.3,model2,NA,0.0058,2.877,1,NA,NA,mg,NA,44,0.95,,NA,NA,17
+Erythemis simplicicollis,nymph,276,none,none,NA,NA,body_length,mm,4.2,12.5,model2,NA,0.0061,3.089,1,NA,NA,mg,NA,9,0.89,,NA,NA,17
+Ladona deplanata,nymph,277,none,none,NA,NA,body_length,mm,6.5,23.8,model2,NA,0.0072,2.618,1,NA,NA,mg,NA,37,0.94,,NA,NA,17
+Libellula spp,nymph,278,none,none,NA,NA,body_length,mm,6.3,16.5,model2,NA,0.0151,2.393,1,NA,NA,mg,NA,19,0.83,,NA,NA,17
+Plathemis lydia,nymph,279,none,none,NA,NA,body_length,mm,7,18.9,model2,NA,0.004,3.068,1,NA,NA,mg,NA,22,0.85,,NA,NA,17
+Allocapnia,nymph,280,none,none,NA,NA,body_length,mm,1.4,6.7,model2,NA,0.0047,2.761,1,NA,NA,mg,NA,29,0.79,,NA,NA,17
+Allocapnia,nymph,281,none,none,NA,NA,body_length,mm,1.3,7,model2,NA,0.0057,2.439,1,NA,NA,mg,NA,25,0.92,,NA,NA,17
+Allocapnia,nymph,282,formaldehyde,10,NA,NA,body_length,mm,0.7,6.9,model2,NA,0.004,2.487,1,NA,NA,mg,NA,10,0.98,,NA,NA,17
+Leuctra,nymph,283,none,none,NA,NA,body_length,mm,2.2,7.2,model2,NA,0.0025,2.744,1,NA,NA,mg,NA,34,0.88,,NA,NA,17
+Amphinemura,nymph,284,none,none,NA,NA,body_length,mm,1,6.9,model2,NA,0.004,2.975,1,NA,NA,mg,NA,62,0.88,,NA,NA,17
+Prostoia completa,nymph,285,none,none,NA,NA,body_length,mm,0.9,6.2,model2,NA,0.0055,2.633,1,NA,NA,mg,NA,38,0.96,,NA,NA,17
+Acroneuria abnormis,nymph,286,none,none,NA,NA,body_length,mm,4.2,26.1,model2,NA,0.0061,3,1,NA,NA,mg,NA,22,0.94,,NA,NA,17
+Acroneuria,nymph,287,none,none,NA,NA,body_length,mm,3.4,17,model2,NA,0.0019,3.232,1,NA,NA,mg,NA,52,0.89,,NA,NA,17
+Agnetina capitata,nymph,288,none,none,NA,NA,body_length,mm,3,11.2,model2,NA,0.0144,2.688,1,NA,NA,mg,NA,21,0.76,,NA,NA,17
+Beloneuria georgiana,nymph,289,formaldehyde,10,NA,NA,body_length,mm,3.3,19.5,model2,NA,0.0094,2.766,1,NA,NA,mg,NA,31,0.86,,NA,NA,17
+Eccoptura xanthenes,nymph,290,none,none,NA,NA,body_length,mm,5.8,20,model2,NA,0.003,3.232,1,NA,NA,mg,NA,18,0.96,,NA,NA,17
+Paragnetina kansensis,nymph,291,none,none,NA,NA,body_length,mm,4,22,model2,NA,0.0093,2.797,1,NA,NA,mg,NA,63,0.82,,NA,NA,17
+Perlesta placida,nymph,292,none,none,NA,NA,body_length,mm,3.7,10.2,model2,NA,0.003,3.02,1,NA,NA,mg,NA,83,0.85,,NA,NA,17
+Perlesta,nymph,293,none,none,NA,NA,body_length,mm,2.5,11.5,model2,NA,0.0037,3.08,1,NA,NA,mg,NA,15,0.81,,NA,NA,17
+Perlinella drymo,nymph,294,none,none,NA,NA,body_length,mm,3.3,16.9,model2,NA,0.0034,3.123,1,NA,NA,mg,NA,18,0.81,,NA,NA,17
+Clioperla clio,nymph,295,none,none,NA,NA,body_length,mm,2.4,13.2,model2,NA,0.0037,2.931,1,NA,NA,mg,NA,26,0.83,,NA,NA,17
+Clioperla clio,nymph,296,none,none,NA,NA,body_length,mm,2.9,14.3,model2,NA,0.0054,2.762,1,NA,NA,mg,NA,50,0.77,,NA,NA,17
+Isogenus,nymph,297,none,none,NA,NA,body_length,mm,2.2,15.1,model2,NA,0.008,2.706,1,NA,NA,mg,NA,32,0.85,,NA,NA,17
+Isoperla bilineata,nymph,298,none,none,NA,NA,body_length,mm,1.7,13.4,model2,NA,0.0076,2.601,1,NA,NA,mg,NA,33,0.81,,NA,NA,17
+Pteronarcys dorsata,nymph,299,none,none,NA,NA,body_length,mm,8.6,34.9,model2,NA,0.0064,2.845,1,NA,NA,mg,NA,36,0.9,,NA,NA,17
+Strophopteryx,nymph,300,none,none,NA,NA,body_length,mm,1.5,7.8,model2,NA,0.0043,2.79,1,NA,NA,mg,NA,26,0.71,,NA,NA,17
+Taeniopteryx lita,nymph,301,none,none,NA,NA,body_length,mm,1.6,4.2,model2,NA,0.0079,2.55,1,NA,NA,mg,NA,16,0.89,,NA,NA,17
+Taeniopteryx,nymph,302,none,none,NA,NA,body_length,mm,1.8,8.5,model2,NA,0.0067,2.711,1,NA,NA,mg,NA,44,0.8,,NA,NA,17
+Sigara,nymph,303,none,none,NA,NA,body_length,mm,3.4,6.8,model2,NA,0.0031,2.904,1,NA,NA,mg,NA,14,0.81,,NA,NA,17
+Gerris remigis,nymph,304,none,none,NA,NA,body_length,mm,9,17.5,model2,NA,0.015,2.596,1,NA,NA,mg,NA,15,0.79,,NA,NA,17
+Metrobates hesperius,nymph,305,none,none,NA,NA,body_length,mm,3.2,5.5,model2,NA,0.0169,2.66,1,NA,NA,mg,NA,25,0.83,,NA,NA,17
+Rhagovelia obesa,nymph,306,none,none,NA,NA,body_length,mm,2.8,4.8,model2,NA,0.0083,2.777,1,NA,NA,mg,NA,21,0.74,,NA,NA,17
+Corydalus cornutus,nymph,307,none,none,NA,NA,body_length,mm,17.3,69.2,model2,NA,0.0018,3.001,1,NA,NA,mg,NA,41,0.94,,NA,NA,17
+Corydalus cornutus,nymph,308,none,none,NA,NA,body_length,mm,12.4,77.1,model2,NA,0.0032,2.953,1,NA,NA,mg,NA,21,0.81,,NA,NA,17
+Corydalus cornutus,nymph,309,none,none,NA,NA,body_length,mm,2.4,62,model2,NA,0.0018,2.997,1,NA,NA,mg,NA,82,0.95,,NA,NA,17
+Nigronia serricornis,nymph,310,none,none,NA,NA,body_length,mm,12.2,40,model2,NA,0.0062,2.691,1,NA,NA,mg,NA,34,0.88,,NA,NA,17
+Nigronia serricornis,nymph,311,none,none,NA,NA,body_length,mm,9.4,43.5,model2,NA,0.0053,2.721,1,NA,NA,mg,NA,26,0.79,,NA,NA,17
+Sialis aequalis,nymph,312,none,none,NA,NA,body_length,mm,3.4,20.2,model2,NA,0.0043,2.704,1,NA,NA,mg,NA,36,0.76,,NA,NA,17
+Sialis,nymph,313,none,none,NA,NA,body_length,mm,5.1,21.3,model2,NA,0.0031,2.801,1,NA,NA,mg,NA,25,0.88,,NA,NA,17
+Brachycentrus etowahensis,nymph,314,formaldehyde,10,NA,NA,body_length,mm,2,13,model2,NA,0.0025,3.443,1,NA,NA,mg,NA,224,0.98,,NA,NA,17
+Brachycentrus,nymph,315,none,none,NA,NA,body_length,mm,2.2,10.4,model2,NA,0.0025,2.6,1,NA,NA,mg,NA,26,0.66,,NA,NA,17
+Cheumatopsyche,nymph,316,none,none,NA,NA,body_length,mm,1.4,12,model2,NA,0.0049,2.62,1,NA,NA,mg,NA,58,0.69,,NA,NA,17
+Cheumatopsyche,nymph,317,none,none,NA,NA,body_length,mm,1.1,11.8,model2,NA,0.0045,2.721,1,NA,NA,mg,NA,47,0.83,,NA,NA,17
+Hydropsyche elissoma,nymph,318,none,none,NA,NA,body_length,mm,2.4,10,model2,NA,0.0058,2.491,1,NA,NA,mg,NA,26,0.93,,NA,NA,17
+Hydropsyche incommoda,nymph,319,none,none,NA,NA,body_length,mm,2.6,9,model2,NA,0.00053,4.179,1,NA,NA,mg,NA,43,0.9,,NA,NA,17
+Hydropsyche,nymph,320,none,none,NA,NA,body_length,mm,1.6,15.1,model2,NA,0.0051,2.824,1,NA,NA,mg,NA,122,0.79,,NA,NA,17
+Hydropsyche,nymph,321,none,none,NA,NA,body_length,mm,1.3,14.3,model2,NA,0.006,2.708,1,NA,NA,mg,NA,36,0.71,,NA,NA,17
+Macrostemum carolina,nymph,322,none,none,NA,NA,body_length,mm,1.8,15,model2,NA,0.0026,3.117,1,NA,NA,mg,NA,16,0.88,,NA,NA,17
+Macrostemum carolina,nymph,323,none,none,NA,NA,body_length,mm,4,13.5,model2,NA,0.0039,2.966,1,NA,NA,mg,NA,71,0.73,,NA,NA,17
+Lepidostoma,nymph,324,none,none,NA,NA,body_length,mm,1,9.1,model2,NA,0.0079,2.649,1,NA,NA,mg,NA,33,0.78,,NA,NA,17
+Oecetis,nymph,325,none,none,NA,NA,body_length,mm,1.2,8,model2,NA,0.0034,3.212,1,NA,NA,mg,NA,23,0.71,,NA,NA,17
+Pycnopsyche luculenta,nymph,326,none,none,NA,NA,body_length,mm,2.8,17.9,model2,NA,0.0052,2.832,1,NA,NA,mg,NA,47,0.92,,NA,NA,17
+Pycnopsyche scabripennis,nymph,327,none,none,NA,NA,body_length,mm,3.1,23.8,model2,NA,0.0049,2.85,1,NA,NA,mg,NA,27,0.87,,NA,NA,17
+Psilotreta,nymph,328,none,none,NA,NA,body_length,mm,1.5,13,model2,NA,0.0082,2.735,1,NA,NA,mg,NA,18,0.76,,NA,NA,17
+Chimarra,nymph,329,none,none,NA,NA,body_length,mm,1.6,10.2,model2,NA,0.0049,2.48,1,NA,NA,mg,NA,34,0.78,,NA,NA,17
+Chimarra,nymph,330,none,none,NA,NA,body_length,mm,1.8,9.4,model2,NA,0.005,2.401,1,NA,NA,mg,NA,29,0.64,,NA,NA,17
+Chimarra,nymph,331,formaldehyde,10,NA,NA,body_length,mm,0.8,11.2,model2,NA,0.0044,2.652,1,NA,NA,mg,NA,27,0.97,,NA,NA,17
+Neureclipsis,nymph,332,none,none,NA,NA,body_length,mm,6,11.5,model2,NA,0.0023,2.879,1,NA,NA,mg,NA,23,0.61,,NA,NA,17
+Polycentropus,nymph,333,none,none,NA,NA,body_length,mm,3.1,14.2,model2,NA,0.0071,2.531,1,NA,NA,mg,NA,25,0.62,,NA,NA,17
+Lype diversa,nymph,334,none,none,NA,NA,body_length,mm,3.3,14.1,model2,NA,0.0039,2.873,1,NA,NA,mg,NA,28,0.85,,NA,NA,17
+Rhyacophila,nymph,335,none,none,NA,NA,body_length,mm,3.3,16.6,model2,NA,0.0099,2.48,1,NA,NA,mg,NA,32,0.77,,NA,NA,17
+Agarodes libalis,nymph,336,none,none,NA,NA,body_length,mm,3,15,model2,NA,0.0074,2.741,1,NA,NA,mg,NA,41,0.83,,NA,NA,17
+Galerucella nymphaeae,nymph,337,formaldehyde,10,NA,NA,body_length,mm,0.9,4.1,model2,NA,0.0392,3.111,1,NA,NA,mg,NA,18,0.96,,NA,NA,17
+Hydroporus,nymph,338,none,none,NA,NA,body_length,mm,3.1,6.5,model2,NA,0.0618,2.502,1,NA,NA,mg,NA,42,0.71,,NA,NA,17
+Ancyronyx variegata,nymph,339,none,none,NA,NA,body_length,mm,1.5,4,model2,NA,0.0034,3.091,1,NA,NA,mg,NA,37,0.88,,NA,NA,17
+Macronychus glabratus,nymph,340,none,none,NA,NA,body_length,mm,1.6,3.7,model2,NA,0.0181,2.311,1,NA,NA,mg,NA,38,0.71,,NA,NA,17
+Macronychus glabratus,nymph,341,none,none,NA,NA,body_length,mm,1.4,3.9,model2,NA,0.0052,2.903,1,NA,NA,mg,NA,54,0.79,,NA,NA,17
+Promoresia,nymph,342,formaldehyde,10,NA,NA,body_length,mm,1.2,3.9,model2,NA,0.0025,3.521,1,NA,NA,mg,NA,19,0.9,,NA,NA,17
+Stenelmis,nymph,343,none,none,NA,NA,body_length,mm,1.8,3.5,model2,NA,0.0111,2.49,1,NA,NA,mg,NA,46,0.83,,NA,NA,17
+Dineutes,nymph,344,none,none,NA,NA,body_length,mm,11,17.2,model2,NA,0.0531,2.586,1,NA,NA,mg,NA,41,0.67,,NA,NA,17
+Peltodytes sexmaculatus,nymph,345,none,none,NA,NA,body_length,mm,4.4,6,model2,NA,0.0271,2.744,1,NA,NA,mg,NA,17,0.76,,NA,NA,17
+Ceratopogonidae,larva,346,none,none,NA,NA,body_length,mm,2.2,10.8,model2,NA,0.00022,2.871,1,NA,NA,mg,NA,15,0.91,,NA,NA,17
+Palpomyia,larva,347,none,none,NA,NA,body_length,mm,1.4,7,model2,NA,0.0039,2.144,1,NA,NA,mg,NA,33,0.71,,NA,NA,17
+Chironominae,larva,348,none,none,NA,NA,body_length,mm,1.7,10.8,model2,NA,0.0059,2.099,1,NA,NA,mg,NA,50,0.88,,NA,NA,17
+Chironomini,larva,349,none,none,NA,NA,body_length,mm,1,6.7,model2,NA,0.0007,2.952,1,NA,NA,mg,NA,51,0.93,,NA,NA,17
+Chironomus,larva,350,none,none,NA,NA,body_length,mm,2,13.7,model2,NA,0.00068,2.62,1,NA,NA,mg,NA,26,0.96,,NA,NA,17
+Cladopelma,larva,351,none,none,NA,NA,body_length,mm,1,4.6,model2,NA,0.001,2.606,1,NA,NA,mg,NA,15,0.94,,NA,NA,17
+Dicrotendipes,larva,352,none,none,NA,NA,body_length,mm,2.6,6.7,model2,NA,0.00059,3.142,1,NA,NA,mg,NA,17,0.87,,NA,NA,17
+Polypedilum,larva,353,none,none,NA,NA,body_length,mm,1.3,5.7,model2,NA,0.001,2.761,1,NA,NA,mg,NA,18,0.98,,NA,NA,17
+Tanytarsini,larva,354,none,none,NA,NA,body_length,mm,1.3,5.3,model2,NA,0.0008,2.728,1,NA,NA,mg,NA,45,0.67,,NA,NA,17
+Tanytarsus,larva,355,none,none,NA,NA,body_length,mm,1.6,5.8,model2,NA,0.0012,2.294,1,NA,NA,mg,NA,14,0.81,,NA,NA,17
+Orthocladiinae,larva,356,none,none,NA,NA,body_length,mm,1.6,5,model2,NA,0.002,2.254,1,NA,NA,mg,NA,39,0.74,,NA,NA,17
+Tanypodinae,larva,357,none,none,NA,NA,body_length,mm,2.3,8.2,model2,NA,0.0026,2.503,1,NA,NA,mg,NA,46,0.81,,NA,NA,17
+Tanypodinae,larva,358,none,none,NA,NA,body_length,mm,2,9,model2,NA,0.0038,2.411,1,NA,NA,mg,NA,12,0.85,,NA,NA,17
+Ablabesmyia,larva,359,none,none,NA,NA,body_length,mm,0.8,7.5,model2,NA,0.001,2.884,1,NA,NA,mg,NA,20,0.94,,NA,NA,17
+Procladius,larva,360,none,none,NA,NA,body_length,mm,1,9.8,model2,NA,0.00077,2.693,1,NA,NA,mg,NA,32,0.91,,NA,NA,17
+Sciaridae,larva,361,formaldehyde,10,NA,NA,body_length,mm,1.5,7.4,model2,NA,0.004,2.091,1,NA,NA,mg,NA,7,0.94,,NA,NA,17
+Simuliidae,larva,362,none,none,NA,NA,body_length,mm,1.6,7.7,model2,NA,0.0048,2.55,1,NA,NA,mg,NA,26,0.72,,NA,NA,17
+Chrysops,larva,363,none,none,NA,NA,body_length,mm,1.9,16.4,model2,NA,0.005,2.591,1,NA,NA,mg,NA,20,0.81,,NA,NA,17
+Tabanus,larva,364,none,none,NA,NA,body_length,mm,1.9,16.4,model2,NA,0.005,2.591,1,NA,NA,mg,NA,20,0.81,,NA,NA,17
+Tipula abdominalis,larva,365,none,none,NA,NA,body_length,mm,4,31.1,model2,NA,0.0015,2.81,1,NA,NA,mg,NA,27,0.88,,NA,NA,17
+Tipula abdominalis,larva,366,none,none,NA,NA,body_length,mm,4.3,38.1,model2,NA,0.0054,2.463,1,NA,NA,mg,NA,36,0.92,,NA,NA,17
