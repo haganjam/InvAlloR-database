@@ -33,7 +33,7 @@ fw_md <-
   dplyr::select(-page)
 
 # save the habitat map as .rds file as well
-saveRDS(fw_md, file = here::here(paste("data", "/", "freshwater_ecoregion_metadata.rds", sep = "")))
+saveRDS(fw_md, file = here::here(paste("database", "/", "freshwater_ecoregion_metadata.rds", sep = "")))
 
 # set-up the CRS
 crdref <- sp::CRS("+proj=longlat +datum=WGS84")
@@ -129,9 +129,9 @@ hab <-
 head(hab)
 
 # write this into an rds file
-saveRDS(hab, file = here::here(paste("data", "/", "freshwater_ecoregion_data.rds", sep = "")))
+saveRDS(hab, file = here::here(paste("database", "/", "freshwater_ecoregion_data.rds", sep = "")))
 
 # save the habitat map as .rds file as well
-saveRDS(fw, file = here::here(paste("data", "/", "freshwater_ecoregion_map.rds", sep = "")))
+saveRDS(fw, file = here::here(paste("database", "/", "freshwater_ecoregion_map.rds", sep = "")))
 
 ### END

@@ -33,4 +33,4 @@ str(pre_dat)
 pre_dat[pre_dat == "NA"] <- NA
 
 # export the database as a .rds file
-saveRDS(pre_dat, here::here("data/preservation_correction_database.rds"))
+saveRDS(pre_dat, here::here("database/preservation_correction_database.rds"))

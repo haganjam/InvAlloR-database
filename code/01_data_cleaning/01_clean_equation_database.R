@@ -134,4 +134,4 @@ equ_dat <-
 equ_dat[equ_dat == "NA"] <- NA
 
 # write this into a .rds file
-saveRDS(equ_dat, file = here::here("data/equation_database.rds"))
+saveRDS(equ_dat, file = here::here("database/equation_database.rds"))

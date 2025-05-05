@@ -29,4 +29,4 @@ str(ref_dat)
 ref_dat[ref_dat == "NA"] <- NA
 
 # export the database as a .rds file
-saveRDS(ref_dat, here::here("data/reference_database.rds"))
+saveRDS(ref_dat, here::here("database/reference_database.rds"))

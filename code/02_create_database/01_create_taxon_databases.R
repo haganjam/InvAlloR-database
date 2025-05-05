@@ -33,7 +33,7 @@ for (j in 1:length(database)) {
     )
 
   # load the taxon data
-  tax_dat <- readRDS(file = here::here("data/taxon_database.rds"))
+  tax_dat <- readRDS(file = here::here("database/taxon_database.rds"))
 
   # remove the empty columns
   tax_dat <-
@@ -169,7 +169,7 @@ for (j in 1:length(database)) {
     } else if ( all(is.na(input_class[["order"]])) ) {
       
       input_class <-
-        input_class %>%
+        input_class |>
         dplyr::select(-order)
       
       input_class <- input_class[complete.cases(input_class), ]
@@ -215,10 +215,10 @@ for (j in 1:length(database)) {
 
   # write the taxon database
   name1 <- paste(paste(database[j], "taxon", "database", sep = "_"), ".rds", sep = "")
-  saveRDS(tax_clean, file = here::here(paste("data", "/", name1, sep = "")))
+  saveRDS(tax_clean, file = here::here(paste("database", "/", name1, sep = "")))
 
   # write the higher taxon matrices
   name2 <- paste(paste(database[j], "higher", "taxon", "matrices", sep = "_"), ".rds", sep = "")
-  saveRDS(d_dist, file = here::here(paste("data", "/", name2, sep = "")))
+  saveRDS(d_dist, file = here::here(paste("database", "/", name2, sep = "")))
 
   }

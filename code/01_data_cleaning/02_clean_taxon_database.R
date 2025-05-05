@@ -56,4 +56,4 @@ for (i in 1:length(spec_names)) {
 }
 
 # write this into a .rds file
-saveRDS(t_dat, file = here::here("data/taxon_database.rds"))
+saveRDS(t_dat, file = here::here("database/taxon_database.rds"))
